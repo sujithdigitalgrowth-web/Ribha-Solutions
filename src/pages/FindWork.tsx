@@ -3,7 +3,7 @@ import { Link, useSearchParams } from 'react-router-dom';
 import { useAuth } from '@/contexts/AuthContext';
 import { getJobs, type Job } from '@/utils/jobsStorage';
 import { getApplicantCount, hasApplied } from '@/utils/proposalsStorage';
-import { getSavedJobIds, toggleSavedJob, isJobSaved } from '@/utils/savedJobsStorage';
+import { getSavedJobIds, toggleSavedJob } from '@/utils/savedJobsStorage';
 import { getProfile } from '@/utils/profilesStorage';
 import { JOB_CATEGORIES, RESPONSE_TIME_OPTIONS } from '@/config/categories';
 import { SkeletonList } from '@/components/Skeleton';
@@ -48,7 +48,7 @@ function JobCard({
   const userApplied = userId ? hasApplied(job.id, userId) : false;
   const expired = isJobExpired(job);
   const statusBadge = job.status === 'closed' ? 'Completed' : job.status === 'in_progress' ? 'In progress' : expired ? 'Expired' : null;
-  const saved = userId ? isJobSaved(job.id, userId) : false;
+  const saved = userId ? savedIds.includes(job.id) : false;
 
   return (
     <div
