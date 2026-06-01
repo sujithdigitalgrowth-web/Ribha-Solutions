@@ -1,0 +1,16 @@
+{
+  "name": "Ribha Solutions",
+  "short_name": "Ribha",
+  "description": "Hire verified freelancers. Post jobs free. India's trusted freelance marketplace.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

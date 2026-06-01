@@ -1,0 +1,162 @@
+[
+  {
+    "id": "a8bc622c-548c-4181-a022-770cdc7955c5",
+    "name": "Infoedge Solutions Team",
+    "email": "client1@infoedgesolutions.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "0452d0e7-bb4b-4e70-80d9-0c9e77e07444",
+    "name": "Razorpay Partners Team",
+    "email": "client2@razorpaypartners.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "7ae952c6-d834-425b-9306-c3ac91b28f5f",
+    "name": "Growfast Digital Team",
+    "email": "client3@growfastdigital.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "5a2fc0c1-2b61-46b7-888c-0fb502ac2db8",
+    "name": "Buildwise Tech Team",
+    "email": "client4@buildwisetech.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "2dffcb46-41ce-42b2-ba51-c343798b2b1e",
+    "name": "Kotak Ventures Team",
+    "email": "client5@kotakventures.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "c585384c-1be7-4d5a-8310-508ba90e1db8",
+    "name": "Meesho Suppliers Team",
+    "email": "client6@meeshosuppliers.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "45e38a62-7ad0-43d9-8d90-1f947134f36a",
+    "name": "Zolo Technologies Team",
+    "email": "client7@zolotechnologies.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "910fb65f-04fd-40e9-b632-60eae0e9afb4",
+    "name": "PhonePe Agency Team",
+    "email": "client8@phonepeagency.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "edca17b9-660c-4db7-8477-c8abe91d5b6f",
+    "name": "Swiggy Ops Team Team",
+    "email": "client9@swiggyopsteam.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "fca70563-e268-48f3-a17b-a3c2e4bcd9b1",
+    "name": "CRED Fintech Team",
+    "email": "client10@credfintech.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "09377b57-6e66-4f38-a4d4-911e3077a8a0",
+    "name": "Urban Company Team",
+    "email": "client11@urbancompany.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "f9ae0436-ceb7-4807-9798-58e015524156",
+    "name": "Vedantu EdTech Team",
+    "email": "client12@vedantuedtech.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "9fd1f653-4ff7-4e67-93dd-d18ac18fdb38",
+    "name": "Practo Health Team",
+    "email": "client13@practohealth.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "c0228e2d-5ac0-4b9d-a734-b8d5244d0065",
+    "name": "OYO Operations Team",
+    "email": "client14@oyooperations.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "39740fe5-39bb-4d56-acfb-dd2e3317f0a3",
+    "name": "Lenskart Digital Team",
+    "email": "client15@lenskartdigital.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "9887db58-3396-47ee-ba13-60fcf038ac27",
+    "name": "Cars24 Analytics Team",
+    "email": "client16@cars24analytics.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "d47e8c98-ff67-4e98-96f7-9c59aa69e0ec",
+    "name": "Nykaa Commerce Team",
+    "email": "client17@nykaacommerce.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "ec977a31-43fb-49d2-a94b-3aa69d94a542",
+    "name": "Byju's Content Team",
+    "email": "client18@byjuscontent.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "b96fd777-f3fe-4565-9d3f-a25a0b84a63b",
+    "name": "Paytm Partners Team",
+    "email": "client19@paytmpartners.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "94638305-32f0-4e69-8b33-16b37be74c97",
+    "name": "ShareChat Media Team",
+    "email": "client20@sharechatmedia.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  }
+]

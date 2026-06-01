@@ -1,0 +1,6 @@
+{
+    "name": "talentforge/api",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

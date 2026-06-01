@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  @apply text-slate-900 dark:text-slate-100 bg-white dark:bg-slate-900;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+@theme {
+  --color-brand: #6366f1;
+  --color-brand-hover: #4f46e5;
+  --color-brand-dark: #4338ca;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInRight {
+  from { opacity: 0; transform: translateX(20px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+.animate-fade-up   { animation: fadeInUp   0.5s ease both; }
+.animate-fade-right { animation: fadeInRight 0.5s ease both; }
+.delay-100 { animation-delay: 0.1s; }
+.delay-200 { animation-delay: 0.2s; }
+.delay-300 { animation-delay: 0.3s; }
+.delay-400 { animation-delay: 0.4s; }
+.delay-500 { animation-delay: 0.5s; }

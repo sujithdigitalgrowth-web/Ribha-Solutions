@@ -1,0 +1,2166 @@
+[
+  {
+    "user": {
+      "id": "e8a3574c-2a2d-4ab8-ac37-f468e1d47a38",
+      "name": "Arjun Sharma",
+      "email": "arjun.sharma0@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "e8a3574c-2a2d-4ab8-ac37-f468e1d47a38",
+      "title": "QA Engineer",
+      "bio": "I spent 4 years at a product startup before going independent. I work with 3–4 clients at a time and treat every project like it's my own business.",
+      "hourlyRate": "₹6,978/hr",
+      "skills": [
+        "Kubernetes",
+        "React",
+        "Analytics",
+        "Angular",
+        "Social Media",
+        "Node.js"
+      ],
+      "availability": "Part-time (20 hrs/week)",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.005Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Chennai, India",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 85,
+          "passed": true,
+          "passedAt": "2026-05-01T06:29:15.915Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "2e02b250-ff56-45bb-bd6b-59c1e4a702b4",
+      "name": "Priya Patel",
+      "email": "priya.patel1@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "2e02b250-ff56-45bb-bd6b-59c1e4a702b4",
+      "title": "WordPress Developer",
+      "bio": "Full-stack engineer with a focus on React and Node.js. I have shipped products used by 500K+ users. I prefer fixed-scope projects with clear deliverables.",
+      "hourlyRate": "₹4,474/hr",
+      "skills": [
+        "Google Ads",
+        "CI/CD",
+        "Analytics",
+        "REST API"
+      ],
+      "availability": "Available from next week",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.006Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": false,
+      "location": "Remote",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 76,
+          "passed": true,
+          "passedAt": "2026-04-21T06:29:16.005Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "825e44b4-8e1d-4c08-b16a-28c9d3629e79",
+      "name": "Rahul Verma",
+      "email": "rahul.verma2@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "825e44b4-8e1d-4c08-b16a-28c9d3629e79",
+      "title": "Python Developer",
+      "bio": "Designer who codes. I can take a product from wireframes to working React components without needing a separate handoff phase.",
+      "hourlyRate": "₹8,273/hr",
+      "skills": [
+        "MongoDB",
+        "React",
+        "TypeScript",
+        "PostgreSQL"
+      ],
+      "availability": "Available now",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.006Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": false,
+      "location": "Ahmedabad, India",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 96,
+          "passed": true,
+          "passedAt": "2026-04-28T06:29:16.006Z"
+        },
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 86,
+          "passed": true,
+          "passedAt": "2026-03-24T06:29:16.006Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "eb670602-48ff-4ce2-9dcf-7cc832c57f47",
+      "name": "Ananya Singh",
+      "email": "ananya.singh3@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "eb670602-48ff-4ce2-9dcf-7cc832c57f47",
+      "title": "Frontend Developer",
+      "bio": "Former agency lead, now solo. I have managed projects up to ₹40L. I know how to scope, estimate, and deliver without drama.",
+      "hourlyRate": "₹7,497/hr",
+      "skills": [
+        "REST API",
+        "Angular",
+        "GraphQL",
+        "Content Writing"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.006Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": false,
+      "location": "Pune, India",
+      "skillBadges": [
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 78,
+          "passed": true,
+          "passedAt": "2026-04-17T06:29:16.006Z"
+        },
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 91,
+          "passed": true,
+          "passedAt": "2026-04-14T06:29:16.006Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "c43052a5-54d7-49c2-bd05-4dadf79cad16",
+      "name": "Vikram Reddy",
+      "email": "vikram.reddy4@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "c43052a5-54d7-49c2-bd05-4dadf79cad16",
+      "title": "WordPress Developer",
+      "bio": "I specialise in early-stage products — MVP builds, proof-of-concepts, rapid iterations. I have worked with 12 funded startups in the last 3 years.",
+      "hourlyRate": "₹9,267/hr",
+      "skills": [
+        "Photoshop",
+        "Testing",
+        "Docker",
+        "PHP",
+        "PostgreSQL"
+      ],
+      "availability": "Available in 2 weeks",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.006Z",
+      "emailVerified": false,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Remote",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 74,
+          "passed": true,
+          "passedAt": "2026-03-20T06:29:16.006Z"
+        },
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 99,
+          "passed": true,
+          "passedAt": "2026-04-11T06:29:16.006Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "e6bee433-1eba-49c1-9767-1619c3416d05",
+      "name": "Kavya Nair",
+      "email": "kavya.nair5@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "e6bee433-1eba-49c1-9767-1619c3416d05",
+      "title": "Technical Writer",
+      "bio": "Data engineer and ML practitioner. I work on pipelines, dashboards, and models. Not interested in trivial data-entry work — looking for projects with actual complexity.",
+      "hourlyRate": "₹11,632/hr",
+      "skills": [
+        "Data Entry",
+        "Analytics",
+        "Testing",
+        "Flutter",
+        "MongoDB",
+        "Google Ads",
+        "Docker",
+        "Swift"
+      ],
+      "availability": "Available in 2 weeks",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.006Z",
+      "emailVerified": false,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Delhi, India",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 96,
+          "passed": true,
+          "passedAt": "2026-03-29T06:29:16.006Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "ac63f677-6ca6-4ba4-978d-c531cf8668c2",
+      "name": "Aditya Krishnan",
+      "email": "aditya.krishnan6@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "ac63f677-6ca6-4ba4-978d-c531cf8668c2",
+      "title": "UI/UX Designer",
+      "bio": "Content strategist and writer. I have written for SaaS, fintech, and healthtech companies. I do not do generic blog posts — everything I write is researched and has a point of view.",
+      "hourlyRate": "₹3,924/hr",
+      "skills": [
+        "Data Entry",
+        "Swift",
+        "Project Management",
+        "Flutter",
+        "SEO",
+        "Email Marketing",
+        "Node.js",
+        "Shopify"
+      ],
+      "availability": "Available now",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.006Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Ahmedabad, India",
+      "skillBadges": [
+        {
+          "skillId": "nodejs",
+          "skillName": "Nodejs",
+          "score": 93,
+          "passed": true,
+          "passedAt": "2026-05-14T06:29:16.006Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "5819ae81-b2a0-4ac8-bd53-9cff2e5d7375",
+      "name": "Ishita Gupta",
+      "email": "ishita.gupta7@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "5819ae81-b2a0-4ac8-bd53-9cff2e5d7375",
+      "title": "Backend Developer",
+      "bio": "UI/UX designer with 6 years of experience. My design process starts with user research, not aesthetics. I deliver Figma files that developers can actually build from.",
+      "hourlyRate": "₹2,783/hr",
+      "skills": [
+        "TypeScript",
+        "Flutter",
+        "CI/CD",
+        "AWS",
+        "WordPress",
+        "Google Ads"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.006Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Remote",
+      "skillBadges": [
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 90,
+          "passed": true,
+          "passedAt": "2026-04-16T06:29:16.006Z"
+        },
+        {
+          "skillId": "nodejs",
+          "skillName": "Nodejs",
+          "score": 94,
+          "passed": true,
+          "passedAt": "2026-05-12T06:29:16.006Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "3558001f-1ab7-425c-871e-869d0288c8c8",
+      "name": "Rohan Mehta",
+      "email": "rohan.mehta8@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "3558001f-1ab7-425c-871e-869d0288c8c8",
+      "title": "Growth Marketer",
+      "bio": "Backend-focused engineer. PostgreSQL, Redis, AWS, microservices. I am the person you call when your system is slow or your architecture is getting messy.",
+      "hourlyRate": "₹9,772/hr",
+      "skills": [
+        "Google Ads",
+        "Testing",
+        "Docker",
+        "SEO",
+        "Social Media"
+      ],
+      "availability": "Available in 2 weeks",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Hyderabad, India",
+      "skillBadges": [
+        {
+          "skillId": "dataentry",
+          "skillName": "Dataentry",
+          "score": 79,
+          "passed": true,
+          "passedAt": "2026-03-24T06:29:16.007Z"
+        },
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 97,
+          "passed": true,
+          "passedAt": "2026-03-13T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "78b91ded-76a3-4d71-8b93-2b56d7e2f1df",
+      "name": "Sneha Joshi",
+      "email": "sneha.joshi9@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "78b91ded-76a3-4d71-8b93-2b56d7e2f1df",
+      "title": "Full Stack Engineer",
+      "bio": "Growth marketer with hands-on experience in Google Ads, Meta, and SEO. I have managed budgets from ₹50K to ₹1.5Cr per month.",
+      "hourlyRate": "₹5,764/hr",
+      "skills": [
+        "Content Writing",
+        "Python",
+        "MongoDB",
+        "WordPress",
+        "Photoshop"
+      ],
+      "availability": "Part-time (20 hrs/week)",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": false,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Delhi, India",
+      "skillBadges": [
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 94,
+          "passed": true,
+          "passedAt": "2026-04-30T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "31771fb7-5532-4cd9-8322-1120de7a11a4",
+      "name": "Karan Malhotra",
+      "email": "karan.malhotra10@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "31771fb7-5532-4cd9-8322-1120de7a11a4",
+      "title": "WordPress Developer",
+      "bio": "I spent 4 years at a product startup before going independent. I work with 3–4 clients at a time and treat every project like it's my own business.",
+      "hourlyRate": "₹8,072/hr",
+      "skills": [
+        "Flutter",
+        "Kubernetes",
+        "Figma",
+        "AWS",
+        "Sketch",
+        "TypeScript",
+        "Project Management",
+        "Shopify"
+      ],
+      "availability": "Available now",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": false,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Chennai, India",
+      "skillBadges": [
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 78,
+          "passed": true,
+          "passedAt": "2026-03-07T06:29:16.007Z"
+        },
+        {
+          "skillId": "content",
+          "skillName": "Content",
+          "score": 86,
+          "passed": true,
+          "passedAt": "2026-05-03T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "d45fd38b-0cf2-489f-ab27-86a3fae63639",
+      "name": "Diya Agarwal",
+      "email": "diya.agarwal11@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "d45fd38b-0cf2-489f-ab27-86a3fae63639",
+      "title": "Mobile App Developer",
+      "bio": "Full-stack engineer with a focus on React and Node.js. I have shipped products used by 500K+ users. I prefer fixed-scope projects with clear deliverables.",
+      "hourlyRate": "₹2,941/hr",
+      "skills": [
+        "AWS",
+        "Data Entry",
+        "Java",
+        "Python",
+        "Adobe XD",
+        "Project Management"
+      ],
+      "availability": "Available in 2 weeks",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Remote",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 79,
+          "passed": true,
+          "passedAt": "2026-05-25T06:29:16.007Z"
+        },
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 84,
+          "passed": true,
+          "passedAt": "2026-03-20T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "d5e9d2a3-52b3-4b2a-9596-5b250ce01b30",
+      "name": "Aarav Kapoor",
+      "email": "aarav.kapoor12@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "d5e9d2a3-52b3-4b2a-9596-5b250ce01b30",
+      "title": "Data Engineer",
+      "bio": "Designer who codes. I can take a product from wireframes to working React components without needing a separate handoff phase.",
+      "hourlyRate": "₹11,161/hr",
+      "skills": [
+        "Adobe XD",
+        "AWS",
+        "Laravel",
+        "Docker",
+        "Content Writing",
+        "Testing"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Pune, India",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 82,
+          "passed": true,
+          "passedAt": "2026-05-05T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "385bbdd9-6275-42c1-9d1c-0360e7f30334",
+      "name": "Neha Desai",
+      "email": "neha.desai13@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "385bbdd9-6275-42c1-9d1c-0360e7f30334",
+      "title": "Backend Developer",
+      "bio": "Former agency lead, now solo. I have managed projects up to ₹40L. I know how to scope, estimate, and deliver without drama.",
+      "hourlyRate": "₹9,043/hr",
+      "skills": [
+        "Laravel",
+        "Node.js",
+        "Java",
+        "CI/CD",
+        "Figma",
+        "AWS",
+        "Adobe XD",
+        "GraphQL"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Ahmedabad, India",
+      "skillBadges": [
+        {
+          "skillId": "nodejs",
+          "skillName": "Nodejs",
+          "score": 76,
+          "passed": true,
+          "passedAt": "2026-04-02T06:29:16.007Z"
+        },
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 73,
+          "passed": true,
+          "passedAt": "2026-05-27T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "f273a0b6-0214-410f-b365-d5219a02717f",
+      "name": "Rishabh Iyer",
+      "email": "rishabh.iyer14@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "f273a0b6-0214-410f-b365-d5219a02717f",
+      "title": "UI/UX Designer",
+      "bio": "I specialise in early-stage products — MVP builds, proof-of-concepts, rapid iterations. I have worked with 12 funded startups in the last 3 years.",
+      "hourlyRate": "₹2,920/hr",
+      "skills": [
+        "Figma",
+        "REST API",
+        "GraphQL",
+        "Google Ads"
+      ],
+      "availability": "Part-time (20 hrs/week)",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Bangalore, India",
+      "skillBadges": [
+        {
+          "skillId": "dataentry",
+          "skillName": "Dataentry",
+          "score": 97,
+          "passed": true,
+          "passedAt": "2026-03-19T06:29:16.007Z"
+        },
+        {
+          "skillId": "content",
+          "skillName": "Content",
+          "score": 98,
+          "passed": true,
+          "passedAt": "2026-03-29T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "8d2a75ef-3d5a-481c-8397-7e1f9d67f0db",
+      "name": "Anjali Rao",
+      "email": "anjali.rao15@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "8d2a75ef-3d5a-481c-8397-7e1f9d67f0db",
+      "title": "Content Strategist",
+      "bio": "Data engineer and ML practitioner. I work on pipelines, dashboards, and models. Not interested in trivial data-entry work — looking for projects with actual complexity.",
+      "hourlyRate": "₹10,267/hr",
+      "skills": [
+        "Laravel",
+        "WordPress",
+        "Angular",
+        "Google Ads",
+        "Docker",
+        "Swift",
+        "Flutter",
+        "Illustrator"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": false,
+      "location": "Bangalore, India",
+      "skillBadges": [
+        {
+          "skillId": "dataentry",
+          "skillName": "Dataentry",
+          "score": 95,
+          "passed": true,
+          "passedAt": "2026-04-07T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "6712a20e-ffac-42ff-b626-d2a7ee0c017c",
+      "name": "Siddharth Pillai",
+      "email": "siddharth.pillai16@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "6712a20e-ffac-42ff-b626-d2a7ee0c017c",
+      "title": "Senior React Developer",
+      "bio": "Content strategist and writer. I have written for SaaS, fintech, and healthtech companies. I do not do generic blog posts — everything I write is researched and has a point of view.",
+      "hourlyRate": "₹11,233/hr",
+      "skills": [
+        "Vue.js",
+        "SEO",
+        "PostgreSQL",
+        "Photoshop",
+        "Analytics"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Remote",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 75,
+          "passed": true,
+          "passedAt": "2026-04-11T06:29:16.007Z"
+        },
+        {
+          "skillId": "nodejs",
+          "skillName": "Nodejs",
+          "score": 77,
+          "passed": true,
+          "passedAt": "2026-03-08T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "28cbc249-c53d-4656-977b-0d03480691cb",
+      "name": "Pooja Menon",
+      "email": "pooja.menon17@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "28cbc249-c53d-4656-977b-0d03480691cb",
+      "title": "DevOps Engineer",
+      "bio": "UI/UX designer with 6 years of experience. My design process starts with user research, not aesthetics. I deliver Figma files that developers can actually build from.",
+      "hourlyRate": "₹3,775/hr",
+      "skills": [
+        "PostgreSQL",
+        "MongoDB",
+        "Social Media",
+        "Google Ads",
+        "Sketch"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": false,
+      "location": "Mumbai, India",
+      "skillBadges": [
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 91,
+          "passed": true,
+          "passedAt": "2026-04-26T06:29:16.007Z"
+        },
+        {
+          "skillId": "nodejs",
+          "skillName": "Nodejs",
+          "score": 81,
+          "passed": true,
+          "passedAt": "2026-03-19T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "fe3a036a-0cc3-4e4b-b58b-382dd3642c4a",
+      "name": "Varun Choudhury",
+      "email": "varun.choudhury18@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "fe3a036a-0cc3-4e4b-b58b-382dd3642c4a",
+      "title": "Growth Marketer",
+      "bio": "Backend-focused engineer. PostgreSQL, Redis, AWS, microservices. I am the person you call when your system is slow or your architecture is getting messy.",
+      "hourlyRate": "₹10,804/hr",
+      "skills": [
+        "MongoDB",
+        "Figma",
+        "Kubernetes",
+        "Testing",
+        "QA",
+        "Email Marketing",
+        "REST API",
+        "Python"
+      ],
+      "availability": "Available in 2 weeks",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Pune, India",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 83,
+          "passed": true,
+          "passedAt": "2026-03-17T06:29:16.007Z"
+        },
+        {
+          "skillId": "content",
+          "skillName": "Content",
+          "score": 83,
+          "passed": true,
+          "passedAt": "2026-04-12T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "9d99641e-c183-4b16-bd88-9d00dfc71ec8",
+      "name": "Meera Banerjee",
+      "email": "meera.banerjee19@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "9d99641e-c183-4b16-bd88-9d00dfc71ec8",
+      "title": "Brand Designer",
+      "bio": "Growth marketer with hands-on experience in Google Ads, Meta, and SEO. I have managed budgets from ₹50K to ₹1.5Cr per month.",
+      "hourlyRate": "₹3,322/hr",
+      "skills": [
+        "Analytics",
+        "Laravel",
+        "React",
+        "GraphQL",
+        "Angular",
+        "Swift",
+        "Photoshop",
+        "Testing"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Hyderabad, India",
+      "skillBadges": [
+        {
+          "skillId": "dataentry",
+          "skillName": "Dataentry",
+          "score": 76,
+          "passed": true,
+          "passedAt": "2026-05-11T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "1ea5431c-be74-44d3-bf15-d95ef7f61366",
+      "name": "Arnav Saxena",
+      "email": "arnav.saxena20@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "1ea5431c-be74-44d3-bf15-d95ef7f61366",
+      "title": "SEO Specialist",
+      "bio": "I spent 4 years at a product startup before going independent. I work with 3–4 clients at a time and treat every project like it's my own business.",
+      "hourlyRate": "₹11,167/hr",
+      "skills": [
+        "Java",
+        "AWS",
+        "CI/CD",
+        "Docker",
+        "Sketch"
+      ],
+      "availability": "Part-time (20 hrs/week)",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Chennai, India",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 78,
+          "passed": true,
+          "passedAt": "2026-03-26T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "cad6dd9e-d7d3-4104-aaea-99da7a110a49",
+      "name": "Kritika Dubey",
+      "email": "kritika.dubey21@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "cad6dd9e-d7d3-4104-aaea-99da7a110a49",
+      "title": "Node.js Developer",
+      "bio": "Full-stack engineer with a focus on React and Node.js. I have shipped products used by 500K+ users. I prefer fixed-scope projects with clear deliverables.",
+      "hourlyRate": "₹6,352/hr",
+      "skills": [
+        "SEO",
+        "Content Writing",
+        "Kubernetes",
+        "REST API",
+        "Python",
+        "Swift",
+        "Google Ads",
+        "Social Media"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.007Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Ahmedabad, India",
+      "skillBadges": [
+        {
+          "skillId": "content",
+          "skillName": "Content",
+          "score": 93,
+          "passed": true,
+          "passedAt": "2026-04-13T06:29:16.007Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "d2492981-b96a-47dd-a6fa-add5428b3971",
+      "name": "Vivek Trivedi",
+      "email": "vivek.trivedi22@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "d2492981-b96a-47dd-a6fa-add5428b3971",
+      "title": "ML Engineer",
+      "bio": "Designer who codes. I can take a product from wireframes to working React components without needing a separate handoff phase.",
+      "hourlyRate": "₹9,699/hr",
+      "skills": [
+        "Content Writing",
+        "Node.js",
+        "QA",
+        "Technical Writing"
+      ],
+      "availability": "Available now",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": false,
+      "location": "Hyderabad, India",
+      "skillBadges": [
+        {
+          "skillId": "dataentry",
+          "skillName": "Dataentry",
+          "score": 90,
+          "passed": true,
+          "passedAt": "2026-05-12T06:29:16.008Z"
+        },
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 72,
+          "passed": true,
+          "passedAt": "2026-04-28T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "fbee7889-f450-4f36-93da-13becbc44826",
+      "name": "Shreya Mishra",
+      "email": "shreya.mishra23@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "fbee7889-f450-4f36-93da-13becbc44826",
+      "title": "Frontend Developer",
+      "bio": "Former agency lead, now solo. I have managed projects up to ₹40L. I know how to scope, estimate, and deliver without drama.",
+      "hourlyRate": "₹5,491/hr",
+      "skills": [
+        "Shopify",
+        "Social Media",
+        "Content Writing",
+        "REST API",
+        "QA",
+        "Figma"
+      ],
+      "availability": "Available from next week",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Delhi, India",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 92,
+          "passed": true,
+          "passedAt": "2026-04-21T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "cb2e1f30-5c9a-4026-97aa-c465a1f2d939",
+      "name": "Dev Sharma",
+      "email": "dev.sharma24@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "cb2e1f30-5c9a-4026-97aa-c465a1f2d939",
+      "title": "Brand Designer",
+      "bio": "I specialise in early-stage products — MVP builds, proof-of-concepts, rapid iterations. I have worked with 12 funded startups in the last 3 years.",
+      "hourlyRate": "₹2,985/hr",
+      "skills": [
+        "Photoshop",
+        "GraphQL",
+        "QA",
+        "REST API",
+        "PostgreSQL",
+        "Analytics",
+        "Content Writing",
+        "Email Marketing"
+      ],
+      "availability": "Available from next week",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Hyderabad, India",
+      "skillBadges": [
+        {
+          "skillId": "nodejs",
+          "skillName": "Nodejs",
+          "score": 84,
+          "passed": true,
+          "passedAt": "2026-05-30T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "9464ba19-7226-435c-8289-26a17c0ec3a7",
+      "name": "Nidhi Bhatia",
+      "email": "nidhi.bhatia25@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "9464ba19-7226-435c-8289-26a17c0ec3a7",
+      "title": "Python Developer",
+      "bio": "Data engineer and ML practitioner. I work on pipelines, dashboards, and models. Not interested in trivial data-entry work — looking for projects with actual complexity.",
+      "hourlyRate": "₹7,264/hr",
+      "skills": [
+        "Adobe XD",
+        "Figma",
+        "Google Ads",
+        "Technical Writing",
+        "Social Media"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": false,
+      "location": "Delhi, India",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 84,
+          "passed": true,
+          "passedAt": "2026-05-04T06:29:16.008Z"
+        },
+        {
+          "skillId": "content",
+          "skillName": "Content",
+          "score": 90,
+          "passed": true,
+          "passedAt": "2026-05-18T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "b166b514-2cf7-4c56-8cde-1feb8f646c05",
+      "name": "Akash Sinha",
+      "email": "akash.sinha26@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "b166b514-2cf7-4c56-8cde-1feb8f646c05",
+      "title": "Full Stack Engineer",
+      "bio": "Content strategist and writer. I have written for SaaS, fintech, and healthtech companies. I do not do generic blog posts — everything I write is researched and has a point of view.",
+      "hourlyRate": "₹3,426/hr",
+      "skills": [
+        "Figma",
+        "Kubernetes",
+        "Data Entry",
+        "Google Ads",
+        "GraphQL",
+        "Testing",
+        "PostgreSQL"
+      ],
+      "availability": "Available in 2 weeks",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Ahmedabad, India",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 93,
+          "passed": true,
+          "passedAt": "2026-03-27T06:29:16.008Z"
+        },
+        {
+          "skillId": "content",
+          "skillName": "Content",
+          "score": 94,
+          "passed": true,
+          "passedAt": "2026-03-27T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "a4f68abd-83b7-43ed-a30e-b7be2d3ab117",
+      "name": "Tanvi Agarwal",
+      "email": "tanvi.agarwal27@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "a4f68abd-83b7-43ed-a30e-b7be2d3ab117",
+      "title": "WordPress Developer",
+      "bio": "UI/UX designer with 6 years of experience. My design process starts with user research, not aesthetics. I deliver Figma files that developers can actually build from.",
+      "hourlyRate": "₹5,513/hr",
+      "skills": [
+        "SEO",
+        "Google Ads",
+        "Shopify",
+        "Figma",
+        "Technical Writing"
+      ],
+      "availability": "Available in 2 weeks",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Chennai, India",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 82,
+          "passed": true,
+          "passedAt": "2026-05-02T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "5b5f1db3-a127-4549-852b-b9bd056f44bb",
+      "name": "Rajat Khanna",
+      "email": "rajat.khanna28@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "5b5f1db3-a127-4549-852b-b9bd056f44bb",
+      "title": "QA Engineer",
+      "bio": "Backend-focused engineer. PostgreSQL, Redis, AWS, microservices. I am the person you call when your system is slow or your architecture is getting messy.",
+      "hourlyRate": "₹3,135/hr",
+      "skills": [
+        "Adobe XD",
+        "Photoshop",
+        "Illustrator",
+        "Python",
+        "Testing",
+        "PostgreSQL",
+        "REST API"
+      ],
+      "availability": "Available from next week",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Pune, India",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 74,
+          "passed": true,
+          "passedAt": "2026-03-04T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "fa0705de-88d6-44ec-b834-d21d1a51d1c3",
+      "name": "Aisha Khan",
+      "email": "aisha.khan29@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "fa0705de-88d6-44ec-b834-d21d1a51d1c3",
+      "title": "Node.js Developer",
+      "bio": "Growth marketer with hands-on experience in Google Ads, Meta, and SEO. I have managed budgets from ₹50K to ₹1.5Cr per month.",
+      "hourlyRate": "₹5,577/hr",
+      "skills": [
+        "Laravel",
+        "Google Ads",
+        "Shopify",
+        "QA",
+        "AWS"
+      ],
+      "availability": "Available in 2 weeks",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": false,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Delhi, India",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 74,
+          "passed": true,
+          "passedAt": "2026-05-10T06:29:16.008Z"
+        },
+        {
+          "skillId": "seo",
+          "skillName": "Seo",
+          "score": 97,
+          "passed": true,
+          "passedAt": "2026-05-05T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "5f33b4c7-c0e5-42f8-bf68-942b3584e508",
+      "name": "Manish Tiwari",
+      "email": "manish.tiwari30@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "5f33b4c7-c0e5-42f8-bf68-942b3584e508",
+      "title": "Content Strategist",
+      "bio": "I spent 4 years at a product startup before going independent. I work with 3–4 clients at a time and treat every project like it's my own business.",
+      "hourlyRate": "₹3,583/hr",
+      "skills": [
+        "React",
+        "Node.js",
+        "Kubernetes",
+        "Swift"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Pune, India",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 90,
+          "passed": true,
+          "passedAt": "2026-04-01T06:29:16.008Z"
+        },
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 78,
+          "passed": true,
+          "passedAt": "2026-05-23T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "92e77519-53de-4269-a76e-1f1b77908877",
+      "name": "Riya Oberoi",
+      "email": "riya.oberoi31@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "92e77519-53de-4269-a76e-1f1b77908877",
+      "title": "ML Engineer",
+      "bio": "Full-stack engineer with a focus on React and Node.js. I have shipped products used by 500K+ users. I prefer fixed-scope projects with clear deliverables.",
+      "hourlyRate": "₹8,707/hr",
+      "skills": [
+        "Adobe XD",
+        "Data Entry",
+        "Java",
+        "React",
+        "Flutter",
+        "SEO",
+        "Email Marketing",
+        "PHP"
+      ],
+      "availability": "Available from next week",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Chennai, India",
+      "skillBadges": [
+        {
+          "skillId": "nodejs",
+          "skillName": "Nodejs",
+          "score": 80,
+          "passed": true,
+          "passedAt": "2026-03-09T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "df6c2fd0-86c0-446c-88ec-832e8ecc4df2",
+      "name": "Nikhil Chopra",
+      "email": "nikhil.chopra32@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "df6c2fd0-86c0-446c-88ec-832e8ecc4df2",
+      "title": "ML Engineer",
+      "bio": "Designer who codes. I can take a product from wireframes to working React components without needing a separate handoff phase.",
+      "hourlyRate": "₹3,347/hr",
+      "skills": [
+        "Photoshop",
+        "Laravel",
+        "Content Writing",
+        "Angular"
+      ],
+      "availability": "Available now",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Hyderabad, India",
+      "skillBadges": [
+        {
+          "skillId": "dataentry",
+          "skillName": "Dataentry",
+          "score": 85,
+          "passed": true,
+          "passedAt": "2026-04-13T06:29:16.008Z"
+        },
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 73,
+          "passed": true,
+          "passedAt": "2026-05-30T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "ad055b12-39be-4a83-96b3-c4028284ee4b",
+      "name": "Swati Ghosh",
+      "email": "swati.ghosh33@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "ad055b12-39be-4a83-96b3-c4028284ee4b",
+      "title": "Node.js Developer",
+      "bio": "Former agency lead, now solo. I have managed projects up to ₹40L. I know how to scope, estimate, and deliver without drama.",
+      "hourlyRate": "₹3,806/hr",
+      "skills": [
+        "Shopify",
+        "React",
+        "PHP",
+        "Laravel",
+        "CI/CD",
+        "Flutter"
+      ],
+      "availability": "Available now",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Pune, India",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 78,
+          "passed": true,
+          "passedAt": "2026-03-12T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "e3020158-e845-4c42-9abe-2fa1c609aa06",
+      "name": "Abhishek Dutta",
+      "email": "abhishek.dutta34@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "e3020158-e845-4c42-9abe-2fa1c609aa06",
+      "title": "QA Engineer",
+      "bio": "I specialise in early-stage products — MVP builds, proof-of-concepts, rapid iterations. I have worked with 12 funded startups in the last 3 years.",
+      "hourlyRate": "₹8,402/hr",
+      "skills": [
+        "MongoDB",
+        "AWS",
+        "Laravel",
+        "Email Marketing"
+      ],
+      "availability": "Part-time (20 hrs/week)",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Remote",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 74,
+          "passed": true,
+          "passedAt": "2026-05-11T06:29:16.008Z"
+        },
+        {
+          "skillId": "dataentry",
+          "skillName": "Dataentry",
+          "score": 83,
+          "passed": true,
+          "passedAt": "2026-05-20T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "6d05280a-1187-47e5-9227-76788a8a29f9",
+      "name": "Preeti Venkatesh",
+      "email": "preeti.venkatesh35@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "6d05280a-1187-47e5-9227-76788a8a29f9",
+      "title": "Full Stack Engineer",
+      "bio": "Data engineer and ML practitioner. I work on pipelines, dashboards, and models. Not interested in trivial data-entry work — looking for projects with actual complexity.",
+      "hourlyRate": "₹6,043/hr",
+      "skills": [
+        "CI/CD",
+        "PostgreSQL",
+        "TypeScript",
+        "Google Ads",
+        "Docker",
+        "Email Marketing"
+      ],
+      "availability": "Part-time (20 hrs/week)",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": false,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Chennai, India",
+      "skillBadges": [
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 75,
+          "passed": true,
+          "passedAt": "2026-05-30T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "8838a4f3-5bf8-4c7e-9a0a-13ba7b26dcbc",
+      "name": "Gaurav Mukherjee",
+      "email": "gaurav.mukherjee36@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "8838a4f3-5bf8-4c7e-9a0a-13ba7b26dcbc",
+      "title": "Senior React Developer",
+      "bio": "Content strategist and writer. I have written for SaaS, fintech, and healthtech companies. I do not do generic blog posts — everything I write is researched and has a point of view.",
+      "hourlyRate": "₹6,263/hr",
+      "skills": [
+        "AWS",
+        "TypeScript",
+        "WordPress",
+        "Swift",
+        "Content Writing",
+        "Project Management",
+        "Google Ads"
+      ],
+      "availability": "Available now",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Hyderabad, India",
+      "skillBadges": [
+        {
+          "skillId": "seo",
+          "skillName": "Seo",
+          "score": 82,
+          "passed": true,
+          "passedAt": "2026-03-15T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "91dcaab8-b164-4045-bf74-e6909e50f0fe",
+      "name": "Divya Srinivasan",
+      "email": "divya.srinivasan37@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "91dcaab8-b164-4045-bf74-e6909e50f0fe",
+      "title": "Brand Designer",
+      "bio": "UI/UX designer with 6 years of experience. My design process starts with user research, not aesthetics. I deliver Figma files that developers can actually build from.",
+      "hourlyRate": "₹7,640/hr",
+      "skills": [
+        "Illustrator",
+        "Docker",
+        "Analytics",
+        "WordPress",
+        "Flutter",
+        "Figma"
+      ],
+      "availability": "Available now",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.008Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Bangalore, India",
+      "skillBadges": [
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 97,
+          "passed": true,
+          "passedAt": "2026-03-04T06:29:16.008Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "a72de088-0d88-4491-9ecc-b975a5cf77a6",
+      "name": "Ankit Bansal",
+      "email": "ankit.bansal38@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "a72de088-0d88-4491-9ecc-b975a5cf77a6",
+      "title": "Node.js Developer",
+      "bio": "Backend-focused engineer. PostgreSQL, Redis, AWS, microservices. I am the person you call when your system is slow or your architecture is getting messy.",
+      "hourlyRate": "₹10,293/hr",
+      "skills": [
+        "React",
+        "Flutter",
+        "SEO",
+        "Copywriting",
+        "Sketch",
+        "Google Ads",
+        "Python",
+        "Node.js"
+      ],
+      "availability": "Available from next week",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.009Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": false,
+      "location": "Chennai, India",
+      "skillBadges": [
+        {
+          "skillId": "seo",
+          "skillName": "Seo",
+          "score": 74,
+          "passed": true,
+          "passedAt": "2026-05-12T06:29:16.009Z"
+        },
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 88,
+          "passed": true,
+          "passedAt": "2026-04-25T06:29:16.009Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "91aef105-9c67-4f95-b844-9f5d3659c99c",
+      "name": "Simran Kaur",
+      "email": "simran.kaur39@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "91aef105-9c67-4f95-b844-9f5d3659c99c",
+      "title": "DevOps Engineer",
+      "bio": "Growth marketer with hands-on experience in Google Ads, Meta, and SEO. I have managed budgets from ₹50K to ₹1.5Cr per month.",
+      "hourlyRate": "₹6,666/hr",
+      "skills": [
+        "Project Management",
+        "Sketch",
+        "Kubernetes",
+        "Data Entry",
+        "QA",
+        "Social Media"
+      ],
+      "availability": "Part-time (20 hrs/week)",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.009Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Kolkata, India",
+      "skillBadges": [
+        {
+          "skillId": "content",
+          "skillName": "Content",
+          "score": 74,
+          "passed": true,
+          "passedAt": "2026-04-06T06:29:16.009Z"
+        },
+        {
+          "skillId": "seo",
+          "skillName": "Seo",
+          "score": 97,
+          "passed": true,
+          "passedAt": "2026-03-31T06:29:16.009Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "96546b44-169f-4050-9fbe-fefc1902f9fc",
+      "name": "Harsh Shah",
+      "email": "harsh.shah40@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "96546b44-169f-4050-9fbe-fefc1902f9fc",
+      "title": "Technical Writer",
+      "bio": "I spent 4 years at a product startup before going independent. I work with 3–4 clients at a time and treat every project like it's my own business.",
+      "hourlyRate": "₹5,686/hr",
+      "skills": [
+        "PostgreSQL",
+        "React",
+        "Email Marketing",
+        "Swift",
+        "Copywriting",
+        "Content Writing",
+        "Analytics",
+        "Node.js"
+      ],
+      "availability": "Available now",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.009Z",
+      "emailVerified": false,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Delhi, India",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 78,
+          "passed": true,
+          "passedAt": "2026-04-06T06:29:16.009Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "6907714d-7369-4c34-a243-53397ba8ecfc",
+      "name": "Rhea Menon",
+      "email": "rhea.menon41@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "6907714d-7369-4c34-a243-53397ba8ecfc",
+      "title": "DevOps Engineer",
+      "bio": "Full-stack engineer with a focus on React and Node.js. I have shipped products used by 500K+ users. I prefer fixed-scope projects with clear deliverables.",
+      "hourlyRate": "₹4,941/hr",
+      "skills": [
+        "Project Management",
+        "TypeScript",
+        "Data Entry",
+        "MongoDB",
+        "Shopify",
+        "Testing"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.009Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": false,
+      "location": "Ahmedabad, India",
+      "skillBadges": [
+        {
+          "skillId": "seo",
+          "skillName": "Seo",
+          "score": 82,
+          "passed": true,
+          "passedAt": "2026-03-28T06:29:16.009Z"
+        },
+        {
+          "skillId": "dataentry",
+          "skillName": "Dataentry",
+          "score": 90,
+          "passed": true,
+          "passedAt": "2026-03-19T06:29:16.009Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "904842e0-75ab-4c3a-b265-0856d41e7dc5",
+      "name": "Kunal Jain",
+      "email": "kunal.jain42@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "904842e0-75ab-4c3a-b265-0856d41e7dc5",
+      "title": "ML Engineer",
+      "bio": "Designer who codes. I can take a product from wireframes to working React components without needing a separate handoff phase.",
+      "hourlyRate": "₹6,062/hr",
+      "skills": [
+        "Docker",
+        "Testing",
+        "QA",
+        "Content Writing"
+      ],
+      "availability": "Available now",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.009Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Bangalore, India",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 93,
+          "passed": true,
+          "passedAt": "2026-04-11T06:29:16.009Z"
+        },
+        {
+          "skillId": "content",
+          "skillName": "Content",
+          "score": 96,
+          "passed": true,
+          "passedAt": "2026-04-22T06:29:16.009Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "62f1d773-944d-4a8c-8b6d-48206e485a36",
+      "name": "Aarti Reddy",
+      "email": "aarti.reddy43@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "62f1d773-944d-4a8c-8b6d-48206e485a36",
+      "title": "Senior React Developer",
+      "bio": "Former agency lead, now solo. I have managed projects up to ₹40L. I know how to scope, estimate, and deliver without drama.",
+      "hourlyRate": "₹2,975/hr",
+      "skills": [
+        "Email Marketing",
+        "React",
+        "Social Media",
+        "PostgreSQL",
+        "CI/CD",
+        "Illustrator"
+      ],
+      "availability": "Available now",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.009Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Bangalore, India",
+      "skillBadges": [
+        {
+          "skillId": "nodejs",
+          "skillName": "Nodejs",
+          "score": 87,
+          "passed": true,
+          "passedAt": "2026-04-12T06:29:16.009Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "c007e4d4-4fa7-46ae-b031-e9468ff8fefc",
+      "name": "Sahil Bhat",
+      "email": "sahil.bhat44@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "c007e4d4-4fa7-46ae-b031-e9468ff8fefc",
+      "title": "Content Strategist",
+      "bio": "I specialise in early-stage products — MVP builds, proof-of-concepts, rapid iterations. I have worked with 12 funded startups in the last 3 years.",
+      "hourlyRate": "₹6,019/hr",
+      "skills": [
+        "React",
+        "Data Entry",
+        "PostgreSQL",
+        "PHP",
+        "Technical Writing"
+      ],
+      "availability": "Available now",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.009Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Kolkata, India",
+      "skillBadges": [
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 87,
+          "passed": true,
+          "passedAt": "2026-05-19T06:29:16.009Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "a70ee796-1674-4f9d-b5ca-ff6ed5711d78",
+      "name": "Vandana Nambiar",
+      "email": "vandana.nambiar45@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "a70ee796-1674-4f9d-b5ca-ff6ed5711d78",
+      "title": "WordPress Developer",
+      "bio": "Data engineer and ML practitioner. I work on pipelines, dashboards, and models. Not interested in trivial data-entry work — looking for projects with actual complexity.",
+      "hourlyRate": "₹4,205/hr",
+      "skills": [
+        "Figma",
+        "Swift",
+        "Python",
+        "Google Ads",
+        "TypeScript",
+        "QA",
+        "Vue.js",
+        "Sketch"
+      ],
+      "availability": "Available now",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.010Z",
+      "emailVerified": false,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Remote",
+      "skillBadges": [
+        {
+          "skillId": "react",
+          "skillName": "React",
+          "score": 93,
+          "passed": true,
+          "passedAt": "2026-04-21T06:29:16.009Z"
+        },
+        {
+          "skillId": "nodejs",
+          "skillName": "Nodejs",
+          "score": 96,
+          "passed": true,
+          "passedAt": "2026-03-14T06:29:16.009Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "cd8730d1-7d2b-43ee-aa75-95a8de61d64a",
+      "name": "Ravi Sundaram",
+      "email": "ravi.sundaram46@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "male"
+    },
+    "profile": {
+      "userId": "cd8730d1-7d2b-43ee-aa75-95a8de61d64a",
+      "title": "Node.js Developer",
+      "bio": "Content strategist and writer. I have written for SaaS, fintech, and healthtech companies. I do not do generic blog posts — everything I write is researched and has a point of view.",
+      "hourlyRate": "₹6,507/hr",
+      "skills": [
+        "Copywriting",
+        "Docker",
+        "Testing",
+        "React"
+      ],
+      "availability": "Part-time (20 hrs/week)",
+      "experience": "expert",
+      "updatedAt": "2026-05-30T06:29:16.010Z",
+      "emailVerified": false,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Mumbai, India",
+      "skillBadges": [
+        {
+          "skillId": "nodejs",
+          "skillName": "Nodejs",
+          "score": 81,
+          "passed": true,
+          "passedAt": "2026-03-10T06:29:16.010Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "b365a8b0-3d0a-47d7-a95d-a75b2c1b2474",
+      "name": "Deepika Krishnan",
+      "email": "deepika.krishnan47@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "b365a8b0-3d0a-47d7-a95d-a75b2c1b2474",
+      "title": "Node.js Developer",
+      "bio": "UI/UX designer with 6 years of experience. My design process starts with user research, not aesthetics. I deliver Figma files that developers can actually build from.",
+      "hourlyRate": "₹9,660/hr",
+      "skills": [
+        "REST API",
+        "AWS",
+        "Java",
+        "Angular",
+        "Sketch"
+      ],
+      "availability": "Full-time (40 hrs/week)",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.010Z",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "idVerified": false,
+      "location": "Kolkata, India",
+      "skillBadges": [
+        {
+          "skillId": "figma",
+          "skillName": "Figma",
+          "score": 75,
+          "passed": true,
+          "passedAt": "2026-03-19T06:29:16.010Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "73eeff7f-259c-474d-b559-4f38cdd9d57e",
+      "name": "Manoj Iyengar",
+      "email": "manoj.iyengar48@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "73eeff7f-259c-474d-b559-4f38cdd9d57e",
+      "title": "Mobile App Developer",
+      "bio": "Backend-focused engineer. PostgreSQL, Redis, AWS, microservices. I am the person you call when your system is slow or your architecture is getting messy.",
+      "hourlyRate": "₹4,395/hr",
+      "skills": [
+        "PHP",
+        "Google Ads",
+        "Adobe XD",
+        "Testing"
+      ],
+      "availability": "Part-time (20 hrs/week)",
+      "experience": "intermediate",
+      "updatedAt": "2026-05-30T06:29:16.010Z",
+      "emailVerified": false,
+      "phoneVerified": true,
+      "idVerified": true,
+      "location": "Chennai, India",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 81,
+          "passed": true,
+          "passedAt": "2026-04-25T06:29:16.010Z"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "9c396e6d-588b-48f5-8d5a-44c5d298432c",
+      "name": "Lakshmi Venkat",
+      "email": "lakshmi.venkat49@example.com",
+      "password": "demo123",
+      "role": "freelancer",
+      "gender": "female"
+    },
+    "profile": {
+      "userId": "9c396e6d-588b-48f5-8d5a-44c5d298432c",
+      "title": "Full Stack Engineer",
+      "bio": "Growth marketer with hands-on experience in Google Ads, Meta, and SEO. I have managed budgets from ₹50K to ₹1.5Cr per month.",
+      "hourlyRate": "₹6,187/hr",
+      "skills": [
+        "React",
+        "CI/CD",
+        "PHP",
+        "QA",
+        "GraphQL",
+        "Social Media"
+      ],
+      "availability": "Available in 2 weeks",
+      "experience": "entry",
+      "updatedAt": "2026-05-30T06:29:16.010Z",
+      "emailVerified": true,
+      "phoneVerified": false,
+      "idVerified": true,
+      "location": "Pune, India",
+      "skillBadges": [
+        {
+          "skillId": "python",
+          "skillName": "Python",
+          "score": 95,
+          "passed": true,
+          "passedAt": "2026-05-15T06:29:16.010Z"
+        }
+      ]
+    }
+  }
+]

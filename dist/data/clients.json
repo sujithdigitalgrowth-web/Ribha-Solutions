@@ -1,0 +1,162 @@
+[
+  {
+    "id": "43ac2f53-5b6b-410f-919e-fe5d7cc3f8e3",
+    "name": "TechStart Inc Team",
+    "email": "client1@techstartinc.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "6184becf-f9eb-4299-9138-913357f8e5a1",
+    "name": "Digital Ventures Team",
+    "email": "client2@digitalventures.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "dd4d3aae-84b8-4dba-a912-46bfba472b91",
+    "name": "Creative Agency Co Team",
+    "email": "client3@creativeagencyco.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "bb204fc9-ca73-4381-8f9b-076341f7e9e7",
+    "name": "Cloud Solutions Ltd Team",
+    "email": "client4@cloudsolutionsltd.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "d859a500-02e7-4c7d-8050-c529d3d78655",
+    "name": "Growth Labs Team",
+    "email": "client5@growthlabs.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "295cfe4a-68ea-4217-98d7-dddda315ac91",
+    "name": "Innovate Tech Team",
+    "email": "client6@innovatetech.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "cb311a87-632f-4489-aefc-15444af9cb9c",
+    "name": "NextGen Software Team",
+    "email": "client7@nextgensoftware.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "5f83d864-6483-4db9-8462-6b7ac36d55d8",
+    "name": "Smart Design Studio Team",
+    "email": "client8@smartdesignstudio.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "8580b48b-001c-4de3-a353-e9666d2b2031",
+    "name": "DataFlow Systems Team",
+    "email": "client9@dataflowsystems.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "3c5c549b-6618-42d2-adf2-52e8e5cb1745",
+    "name": "AppWorks Team",
+    "email": "client10@appworks.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "305a853d-57a9-4cff-8ce4-8441e4ac71cd",
+    "name": "WebCraft Studios Team",
+    "email": "client11@webcraftstudios.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "25d20506-c812-48c9-a10e-ffe40891a06b",
+    "name": "Pixel Perfect Team",
+    "email": "client12@pixelperfect.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "87ba52fe-1769-4939-878f-277b7f0fe608",
+    "name": "CodeForge Team",
+    "email": "client13@codeforge.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "90a833f7-43a5-4c08-a1a9-3cb2c1f00206",
+    "name": "DesignHub Team",
+    "email": "client14@designhub.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "6bd549ba-1c24-420f-b979-40b38f23e5f3",
+    "name": "MarketPro Team",
+    "email": "client15@marketpro.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "31f3365f-40c8-46e7-ad81-4f2abc95e617",
+    "name": "StartupXYZ Team",
+    "email": "client16@startupxyz.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "6b5f828e-c378-40d7-8eea-93f128d73d05",
+    "name": "Enterprise Solutions Team",
+    "email": "client17@enterprisesolutions.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "c261b039-fe09-4813-97e0-83aecf784149",
+    "name": "SMB Consulting Team",
+    "email": "client18@smbconsulting.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "4beaf894-349c-46c2-b9e0-76628dfb690e",
+    "name": "NonProfit Connect Team",
+    "email": "client19@nonprofitconnect.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  },
+  {
+    "id": "79c07ad1-2564-45f2-8a8c-c11b0ceb3a6e",
+    "name": "EduTech Team",
+    "email": "client20@edutech.com",
+    "password": "demo123",
+    "role": "client",
+    "gender": "male"
+  }
+]

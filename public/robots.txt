@@ -1,0 +1,36 @@
+User-agent: *
+Allow: /
+
+# Disallow authenticated-only and admin routes
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /messages
+Disallow: /notifications
+Disallow: /profile/edit
+Disallow: /post-job
+Disallow: /my-jobs
+Disallow: /find-work
+Disallow: /saved-jobs
+Disallow: /job-alerts
+Disallow: /saved-searches
+Disallow: /proposal-templates
+Disallow: /application-history
+Disallow: /talent-shortlist
+Disallow: /favorites
+Disallow: /company-profile
+Disallow: /invoices
+Disallow: /wallet
+Disallow: /payment-methods
+Disallow: /notification-settings
+Disallow: /compare-jobs
+Disallow: /compare-freelancers
+Disallow: /portfolio
+Disallow: /job-templates
+Disallow: /nda-templates
+Disallow: /export
+Disallow: /api-docs
+Disallow: /analytics
+Disallow: /take-exam
+Disallow: /freelancer-onboarding
+
+Sitemap: https://ribhasolutions.com/sitemap.xml

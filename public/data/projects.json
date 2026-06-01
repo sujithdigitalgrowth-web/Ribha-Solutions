@@ -1,0 +1,3003 @@
+[
+  {
+    "id": "f6420cc5-2164-4935-8649-b878e59193d4",
+    "clientId": "9fd1f653-4ff7-4e67-93dd-d18ac18fdb38",
+    "title": "Build a React dashboard for internal analytics",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: QA, Content Writing, Data Entry.",
+    "budget": "₹1,500–3,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "QA",
+      "Content Writing",
+      "Data Entry",
+      "Kubernetes",
+      "React",
+      "Flutter"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-24T06:29:15.899Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-26T06:29:15.903Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "Meesho Suppliers",
+    "featured": true,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Agency"
+    ]
+  },
+  {
+    "id": "766674e2-29e9-4c57-a978-0030d65a2a01",
+    "clientId": "94638305-32f0-4e69-8b33-16b37be74c97",
+    "title": "Set up Shopify store with custom theme and payment integration",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: Figma, Content Writing, WordPress.",
+    "budget": "₹1,500–3,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "Figma",
+      "Content Writing",
+      "WordPress",
+      "PHP",
+      "TypeScript",
+      "React"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-24T06:29:15.904Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-09T06:29:15.904Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "large",
+    "companyName": "Lenskart Digital",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "7462c121-beef-4b5e-80c9-260f1a6c571d",
+    "clientId": "0452d0e7-bb4b-4e70-80d9-0c9e77e07444",
+    "title": "Design mobile app UI in Figma — fintech product",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: Vue.js, React, GraphQL.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Vue.js",
+      "React",
+      "GraphQL",
+      "Adobe XD",
+      "CI/CD"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-25T06:29:15.904Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-27T06:29:15.904Z",
+    "experienceLevel": "entry",
+    "projectSize": "small",
+    "companyName": "ShareChat Media",
+    "featured": true,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "c9fbd396-56b8-4edc-b7d7-1fdd935fce1d",
+    "clientId": "2dffcb46-41ce-42b2-ba51-c343798b2b1e",
+    "title": "Write Python scripts to automate invoice processing",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: Docker, Angular, GraphQL.",
+    "budget": "₹1,50,000–3,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "Docker",
+      "Angular",
+      "GraphQL"
+    ],
+    "category": "writing",
+    "createdAt": "2026-05-19T06:29:15.904Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-25T06:29:15.904Z",
+    "experienceLevel": "expert",
+    "projectSize": "medium",
+    "companyName": "Kotak Ventures",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "4ac52e80-c91c-4d29-9361-361dcd683102",
+    "clientId": "ec977a31-43fb-49d2-a94b-3aa69d94a542",
+    "title": "SEO audit and on-page optimization for 50-page website",
+    "description": "Agency overflow project. We have a regular pipeline of similar work if this goes well. Looking for someone who can work independently with minimal supervision. Key skills required: Illustrator, Figma, REST API.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Illustrator",
+      "Figma",
+      "REST API"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-12T06:29:15.904Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-18T06:29:15.904Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Nykaa Commerce",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "b7e5a719-80e3-4315-8db4-54e487edcca4",
+    "clientId": "fca70563-e268-48f3-a17b-a3c2e4bcd9b1",
+    "title": "Customize WordPress theme for coaching business",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: Laravel, Node.js, Content Writing.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "Laravel",
+      "Node.js",
+      "Content Writing",
+      "Vue.js"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-11T06:29:15.905Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-07-03T06:29:15.905Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "OYO Operations",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "2048898f-8c90-48c0-868a-e68d7b1b3d93",
+    "clientId": "ec977a31-43fb-49d2-a94b-3aa69d94a542",
+    "title": "Integrate Razorpay and Stripe into existing Node.js backend",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: Data Entry, Angular, Analytics.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Data Entry",
+      "Angular",
+      "Analytics"
+    ],
+    "category": "writing",
+    "createdAt": "2026-05-15T06:29:15.905Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-27T06:29:15.905Z",
+    "experienceLevel": "expert",
+    "projectSize": "large",
+    "companyName": "Nykaa Commerce",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "SMB",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "747b0457-8788-4c07-9e4b-6881b9b6b14d",
+    "clientId": "7ae952c6-d834-425b-9306-c3ac91b28f5f",
+    "title": "Create brand identity — logo, typography, colour system",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: Social Media, Data Entry, Laravel.",
+    "budget": "₹1,500–3,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "Social Media",
+      "Data Entry",
+      "Laravel",
+      "QA",
+      "Content Writing"
+    ],
+    "category": "finance",
+    "createdAt": "2026-05-14T06:29:15.905Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-29T06:29:15.905Z",
+    "experienceLevel": "expert",
+    "projectSize": "large",
+    "companyName": "Vedantu EdTech",
+    "featured": true,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Enterprise",
+      "Startup"
+    ]
+  },
+  {
+    "id": "ed9b94cd-c305-4707-9759-9017541df3c6",
+    "clientId": "edca17b9-660c-4db7-8477-c8abe91d5b6f",
+    "title": "Write 10 SEO blog posts for SaaS company",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: Angular, Content Writing, AWS.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "fixed",
+    "skills": [
+      "Angular",
+      "Content Writing",
+      "AWS",
+      "GraphQL",
+      "MongoDB",
+      "Illustrator"
+    ],
+    "category": "admin",
+    "createdAt": "2026-05-14T06:29:15.905Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-29T06:29:15.905Z",
+    "experienceLevel": "expert",
+    "projectSize": "medium",
+    "companyName": "Nykaa Commerce",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "04a65aa4-9c52-4980-93e9-2c05c41581a9",
+    "clientId": "a8bc622c-548c-4181-a022-770cdc7955c5",
+    "title": "Build React Native app for delivery tracking",
+    "description": "Growing D2C brand looking for a specialist who has done this before. We do not have time for a learning curve. Share relevant work and we will move fast. Key skills required: Illustrator, Angular, Content Writing.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "Illustrator",
+      "Angular",
+      "Content Writing",
+      "Kubernetes"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-12T06:29:15.905Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-30T06:29:15.905Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "large",
+    "companyName": "PhonePe Agency",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "d8dedbf5-c7dc-48dc-89cb-855bd5bca21d",
+    "clientId": "a8bc622c-548c-4181-a022-770cdc7955c5",
+    "title": "Node.js REST API for e-commerce order management",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: Laravel, PostgreSQL, Sketch.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Laravel",
+      "PostgreSQL",
+      "Sketch",
+      "Python",
+      "MongoDB",
+      "TypeScript"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-24T06:29:15.905Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-20T06:29:15.905Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Buildwise Tech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "8d7f0e06-8146-49e1-b89a-ac85653f77b8",
+    "clientId": "94638305-32f0-4e69-8b33-16b37be74c97",
+    "title": "Convert Figma designs to responsive React components",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Laravel, Java, Technical Writing.",
+    "budget": "₹1,500–3,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "Laravel",
+      "Java",
+      "Technical Writing",
+      "Swift",
+      "Content Writing",
+      "AWS"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-26T06:29:15.905Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-07T06:29:15.905Z",
+    "experienceLevel": "entry",
+    "projectSize": "large",
+    "companyName": "Vedantu EdTech",
+    "featured": false,
+    "promoted": true,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "319a0168-7cf3-41e7-8f32-84d8b46d3a2f",
+    "clientId": "fca70563-e268-48f3-a17b-a3c2e4bcd9b1",
+    "title": "Migrate MySQL database to PostgreSQL without downtime",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Angular, Testing, React.",
+    "budget": "₹1,50,000–3,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "Angular",
+      "Testing",
+      "React",
+      "Node.js",
+      "Laravel"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-19T06:29:15.906Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-29T06:29:15.906Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "CRED Fintech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "SMB"
+    ]
+  },
+  {
+    "id": "898f16fc-9305-4d6c-80f5-870de2c4375a",
+    "clientId": "fca70563-e268-48f3-a17b-a3c2e4bcd9b1",
+    "title": "Run Instagram and LinkedIn campaigns for product launch",
+    "description": "Agency overflow project. We have a regular pipeline of similar work if this goes well. Looking for someone who can work independently with minimal supervision. Key skills required: Angular, Figma, Adobe XD.",
+    "budget": "₹15,000–40,000",
+    "projectType": "hourly",
+    "skills": [
+      "Angular",
+      "Figma",
+      "Adobe XD",
+      "Java",
+      "Analytics"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-27T06:29:15.906Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-28T06:29:15.906Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Urban Company",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "b6fa11b2-c521-448c-aca0-246f2b542f45",
+    "clientId": "9fd1f653-4ff7-4e67-93dd-d18ac18fdb38",
+    "title": "Write technical documentation for developer API",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: GraphQL, WordPress, Social Media.",
+    "budget": "₹1,500–3,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "GraphQL",
+      "WordPress",
+      "Social Media",
+      "Vue.js"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-30T06:29:15.906Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-30T06:29:15.906Z",
+    "experienceLevel": "expert",
+    "projectSize": "large",
+    "companyName": "Swiggy Ops Team",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "ac8fabd5-fb40-412a-84d8-4cb71123a49f",
+    "clientId": "94638305-32f0-4e69-8b33-16b37be74c97",
+    "title": "Set up AWS infrastructure with auto-scaling and CloudFront",
+    "description": "We are a bootstrapped startup and need reliable help to hit our next milestone. You will work directly with our CTO. Clear briefs, fast feedback, on-time payment — that is our commitment to you. Key skills required: React, Angular, Node.js.",
+    "budget": "₹15,000–40,000",
+    "projectType": "hourly",
+    "skills": [
+      "React",
+      "Angular",
+      "Node.js"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-11T06:29:15.906Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-20T06:29:15.906Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Paytm Partners",
+    "featured": true,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Enterprise",
+      "Startup"
+    ]
+  },
+  {
+    "id": "f8e9a1a0-8cc2-4cd4-9342-8e00feceb54d",
+    "clientId": "7ae952c6-d834-425b-9306-c3ac91b28f5f",
+    "title": "Containerise monolith application using Docker and Kubernetes",
+    "description": "Growing D2C brand looking for a specialist who has done this before. We do not have time for a learning curve. Share relevant work and we will move fast. Key skills required: PHP, REST API, QA.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "PHP",
+      "REST API",
+      "QA",
+      "Angular"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-23T06:29:15.906Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-07-05T06:29:15.906Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Meesho Suppliers",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "15e3420b-089e-470d-aa95-e7c3906e1d10",
+    "clientId": "d47e8c98-ff67-4e98-96f7-9c59aa69e0ec",
+    "title": "Build landing page with animations for upcoming app launch",
+    "description": "We are a bootstrapped startup and need reliable help to hit our next milestone. You will work directly with our CTO. Clear briefs, fast feedback, on-time payment — that is our commitment to you. Key skills required: Email Marketing, Kubernetes, React.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "hourly",
+    "skills": [
+      "Email Marketing",
+      "Kubernetes",
+      "React",
+      "SEO"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-13T06:29:15.906Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-30T06:29:15.906Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Urban Company",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "1e6107b4-5af4-4d93-b855-4b9f13f4ba05",
+    "clientId": "9887db58-3396-47ee-ba13-60fcf038ac27",
+    "title": "Data entry and cleanup for 10,000-row product catalogue",
+    "description": "Early-stage product team. We value clear communication and honest timelines more than anything else. If you see a problem, tell us — do not just deliver what was asked. Key skills required: Analytics, Kubernetes, Laravel.",
+    "budget": "₹15,000–40,000",
+    "projectType": "hourly",
+    "skills": [
+      "Analytics",
+      "Kubernetes",
+      "Laravel",
+      "Photoshop",
+      "TypeScript"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-21T06:29:15.906Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-27T06:29:15.906Z",
+    "experienceLevel": "expert",
+    "projectSize": "medium",
+    "companyName": "Zolo Technologies",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Agency"
+    ]
+  },
+  {
+    "id": "00901b6b-efde-4d59-b6cf-4147a4297330",
+    "clientId": "9887db58-3396-47ee-ba13-60fcf038ac27",
+    "title": "Write email sequences for onboarding and re-engagement",
+    "description": "Remote-first company. You can work whenever you want as long as you hit the milestones and respond to messages within 24 hours. Key skills required: React, Copywriting, Flutter.",
+    "budget": "₹15,000–40,000",
+    "projectType": "fixed",
+    "skills": [
+      "React",
+      "Copywriting",
+      "Flutter"
+    ],
+    "category": "writing",
+    "createdAt": "2026-05-23T06:29:15.907Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-10T06:29:15.907Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Zolo Technologies",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "SMB"
+    ]
+  },
+  {
+    "id": "56c7ba6c-e86a-42c6-ae63-a2820a4ff6d7",
+    "clientId": "94638305-32f0-4e69-8b33-16b37be74c97",
+    "title": "Full-stack web application for appointment booking",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: PHP, Figma, Swift.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "PHP",
+      "Figma",
+      "Swift",
+      "AWS"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-19T06:29:15.907Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-10T06:29:15.907Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "large",
+    "companyName": "CRED Fintech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "44c1cc29-48df-437f-86b6-6602010c9d47",
+    "clientId": "9887db58-3396-47ee-ba13-60fcf038ac27",
+    "title": "Redesign UI/UX for B2B SaaS dashboard",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: CI/CD, REST API, Docker.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "fixed",
+    "skills": [
+      "CI/CD",
+      "REST API",
+      "Docker",
+      "Node.js"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-10T06:29:15.907Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-21T06:29:15.907Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "PhonePe Agency",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "f6f05156-7ceb-4b5a-b0fe-2b6fe103327e",
+    "clientId": "a8bc622c-548c-4181-a022-770cdc7955c5",
+    "title": "Train Python ML model for churn prediction",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: Python, Figma, Angular.",
+    "budget": "₹40,000–80,000",
+    "projectType": "hourly",
+    "skills": [
+      "Python",
+      "Figma",
+      "Angular",
+      "TypeScript",
+      "WordPress",
+      "REST API"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-23T06:29:15.907Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-20T06:29:15.907Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Practo Health",
+    "featured": true,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "43f2ff01-4aaa-42d9-9fec-d89848af4706",
+    "clientId": "a8bc622c-548c-4181-a022-770cdc7955c5",
+    "title": "Set up Mailchimp automation with segmentation",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Photoshop, Project Management, React.",
+    "budget": "₹40,000–80,000",
+    "projectType": "fixed",
+    "skills": [
+      "Photoshop",
+      "Project Management",
+      "React",
+      "Docker",
+      "Laravel",
+      "Data Entry"
+    ],
+    "category": "writing",
+    "createdAt": "2026-05-26T06:29:15.907Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-08T06:29:15.907Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Cars24 Analytics",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "7eda527c-f0ee-4232-a371-dbe45fcb9aa0",
+    "clientId": "45e38a62-7ad0-43d9-8d90-1f947134f36a",
+    "title": "Build and configure Shopify store from scratch",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: Laravel, Technical Writing, Figma.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "fixed",
+    "skills": [
+      "Laravel",
+      "Technical Writing",
+      "Figma",
+      "Flutter",
+      "SEO"
+    ],
+    "category": "finance",
+    "createdAt": "2026-05-15T06:29:15.907Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-09T06:29:15.907Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "large",
+    "companyName": "CRED Fintech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Enterprise",
+      "Agency"
+    ]
+  },
+  {
+    "id": "e10ebe47-6088-400b-8c28-40570df260ca",
+    "clientId": "fca70563-e268-48f3-a17b-a3c2e4bcd9b1",
+    "title": "Write API documentation using OpenAPI / Swagger",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: Node.js, Copywriting, AWS.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "hourly",
+    "skills": [
+      "Node.js",
+      "Copywriting",
+      "AWS",
+      "Content Writing"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-24T06:29:15.907Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-11T06:29:15.907Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "ShareChat Media",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Enterprise",
+      "Agency"
+    ]
+  },
+  {
+    "id": "d9be3b28-e6e1-4d5e-b2e0-b0ca4f77ab06",
+    "clientId": "d47e8c98-ff67-4e98-96f7-9c59aa69e0ec",
+    "title": "Admin dashboard with charts and export functionality",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: Docker, Vue.js, Shopify.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "Docker",
+      "Vue.js",
+      "Shopify",
+      "Social Media"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-26T06:29:15.908Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-21T06:29:15.908Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Lenskart Digital",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "SMB"
+    ]
+  },
+  {
+    "id": "64da5a9c-0bc9-4d49-bf8e-d2f48a7643e8",
+    "clientId": "b96fd777-f3fe-4565-9d3f-a25a0b84a63b",
+    "title": "Build backend for mobile app — Firebase + Node.js",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Angular, Photoshop, QA.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Angular",
+      "Photoshop",
+      "QA",
+      "Laravel",
+      "SEO",
+      "Content Writing"
+    ],
+    "category": "admin",
+    "createdAt": "2026-05-29T06:29:15.908Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-26T06:29:15.908Z",
+    "experienceLevel": "expert",
+    "projectSize": "medium",
+    "companyName": "Infoedge Solutions",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "a8817ad8-b589-4ea5-bcb6-dd34bc0bce0f",
+    "clientId": "910fb65f-04fd-40e9-b632-60eae0e9afb4",
+    "title": "Create brand guidelines document for new startup",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: Node.js, PostgreSQL, SEO.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "SEO",
+      "Copywriting",
+      "React",
+      "Technical Writing"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-15T06:29:15.908Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-30T06:29:15.908Z",
+    "experienceLevel": "expert",
+    "projectSize": "large",
+    "companyName": "Razorpay Partners",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "772618b4-307c-45e3-ab86-2be5a0ae8ee6",
+    "clientId": "d47e8c98-ff67-4e98-96f7-9c59aa69e0ec",
+    "title": "Monthly blog content — 8 articles, SEO-optimised",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: Angular, Sketch, Email Marketing.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "Angular",
+      "Sketch",
+      "Email Marketing",
+      "TypeScript",
+      "Node.js",
+      "Laravel"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-11T06:29:15.908Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-11T06:29:15.908Z",
+    "experienceLevel": "entry",
+    "projectSize": "small",
+    "companyName": "Paytm Partners",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "e659efdc-9cf2-487e-86ad-da283df982e5",
+    "clientId": "b96fd777-f3fe-4565-9d3f-a25a0b84a63b",
+    "title": "Integrate payment gateway into Laravel application",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Project Management, Content Writing, Sketch.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Project Management",
+      "Content Writing",
+      "Sketch",
+      "Laravel"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-22T06:29:15.908Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-16T06:29:15.908Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "Cars24 Analytics",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Enterprise",
+      "Startup"
+    ]
+  },
+  {
+    "id": "8f166d48-8f2b-4075-b63a-ea36bd954426",
+    "clientId": "c0228e2d-5ac0-4b9d-a734-b8d5244d0065",
+    "title": "Build reusable React component library with Storybook",
+    "description": "Early-stage product team. We value clear communication and honest timelines more than anything else. If you see a problem, tell us — do not just deliver what was asked. Key skills required: Project Management, Flutter, Python.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Project Management",
+      "Flutter",
+      "Python",
+      "QA",
+      "Shopify",
+      "WordPress"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-21T06:29:15.908Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-19T06:29:15.908Z",
+    "experienceLevel": "expert",
+    "projectSize": "large",
+    "companyName": "Razorpay Partners",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "dbac6034-7b1c-4000-b178-9057013a424c",
+    "clientId": "b96fd777-f3fe-4565-9d3f-a25a0b84a63b",
+    "title": "Migrate Angular 8 app to React 18",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Technical Writing, Node.js, Analytics.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Technical Writing",
+      "Node.js",
+      "Analytics",
+      "Python",
+      "Java"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-18T06:29:15.908Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-07-03T06:29:15.908Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Paytm Partners",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Agency"
+    ]
+  },
+  {
+    "id": "9182fb1d-2f68-40ad-a109-f74d5b6e9a64",
+    "clientId": "9fd1f653-4ff7-4e67-93dd-d18ac18fdb38",
+    "title": "Laravel-based multi-vendor e-commerce platform",
+    "description": "Agency overflow project. We have a regular pipeline of similar work if this goes well. Looking for someone who can work independently with minimal supervision. Key skills required: Docker, Python, Java.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "hourly",
+    "skills": [
+      "Docker",
+      "Python",
+      "Java",
+      "React",
+      "Laravel"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-15T06:29:15.908Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-17T06:29:15.908Z",
+    "experienceLevel": "entry",
+    "projectSize": "large",
+    "companyName": "Zolo Technologies",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "f9cac4ae-1cdd-4f40-8780-f1b39a7c0ec4",
+    "clientId": "fca70563-e268-48f3-a17b-a3c2e4bcd9b1",
+    "title": "Interactive Figma prototype for iOS banking app",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: TypeScript, Sketch, Copywriting.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "TypeScript",
+      "Sketch",
+      "Copywriting",
+      "CI/CD"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-26T06:29:15.908Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-18T06:29:15.909Z",
+    "experienceLevel": "expert",
+    "projectSize": "medium",
+    "companyName": "Meesho Suppliers",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "SMB",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "2b30bde0-1cb2-416b-b105-216367627c86",
+    "clientId": "c0228e2d-5ac0-4b9d-a734-b8d5244d0065",
+    "title": "Write SEO content for 15 service pages",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: Photoshop, Angular, Figma.",
+    "budget": "₹15,000–40,000",
+    "projectType": "fixed",
+    "skills": [
+      "Photoshop",
+      "Angular",
+      "Figma",
+      "Kubernetes",
+      "React"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-13T06:29:15.909Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-28T06:29:15.909Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "Paytm Partners",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "SMB"
+    ]
+  },
+  {
+    "id": "37bdc4f6-2bf7-4085-85b6-d0be4f1e4972",
+    "clientId": "c0228e2d-5ac0-4b9d-a734-b8d5244d0065",
+    "title": "Scrape and structure data from public job boards",
+    "description": "Agency overflow project. We have a regular pipeline of similar work if this goes well. Looking for someone who can work independently with minimal supervision. Key skills required: PostgreSQL, Illustrator, Content Writing.",
+    "budget": "₹1,500–3,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "PostgreSQL",
+      "Illustrator",
+      "Content Writing",
+      "React"
+    ],
+    "category": "admin",
+    "createdAt": "2026-05-18T06:29:15.909Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-30T06:29:15.909Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "OYO Operations",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency",
+      "Startup"
+    ]
+  },
+  {
+    "id": "58d6bf20-a860-4091-8208-396aea32c923",
+    "clientId": "c0228e2d-5ac0-4b9d-a734-b8d5244d0065",
+    "title": "Integrate Salesforce CRM with internal tools",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: Sketch, Angular, Docker.",
+    "budget": "₹15,000–40,000",
+    "projectType": "fixed",
+    "skills": [
+      "Sketch",
+      "Angular",
+      "Docker"
+    ],
+    "category": "finance",
+    "createdAt": "2026-05-30T06:29:15.909Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-16T06:29:15.909Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "Meesho Suppliers",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "2eae9c7b-a85a-4035-a4f9-cf139795ab92",
+    "clientId": "9fd1f653-4ff7-4e67-93dd-d18ac18fdb38",
+    "title": "Build Chrome extension for productivity tracking",
+    "description": "We are a bootstrapped startup and need reliable help to hit our next milestone. You will work directly with our CTO. Clear briefs, fast feedback, on-time payment — that is our commitment to you. Key skills required: PostgreSQL, Analytics, Photoshop.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "PostgreSQL",
+      "Analytics",
+      "Photoshop",
+      "QA",
+      "WordPress",
+      "Laravel"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-18T06:29:15.909Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-06T06:29:15.909Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "PhonePe Agency",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "87a78821-6e6c-4f66-9f89-392df876129f",
+    "clientId": "c0228e2d-5ac0-4b9d-a734-b8d5244d0065",
+    "title": "Edit and produce 5 marketing videos — reels format",
+    "description": "We are a bootstrapped startup and need reliable help to hit our next milestone. You will work directly with our CTO. Clear briefs, fast feedback, on-time payment — that is our commitment to you. Key skills required: Social Media, QA, Shopify.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "Social Media",
+      "QA",
+      "Shopify",
+      "CI/CD",
+      "Flutter",
+      "AWS"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-15T06:29:15.909Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-07-02T06:29:15.909Z",
+    "experienceLevel": "expert",
+    "projectSize": "large",
+    "companyName": "Urban Company",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "bfdb2430-5485-43ed-bb44-1ce241062830",
+    "clientId": "ec977a31-43fb-49d2-a94b-3aa69d94a542",
+    "title": "Create financial model and investor deck for seed round",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: Docker, Adobe XD, QA.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Docker",
+      "Adobe XD",
+      "QA",
+      "Analytics",
+      "Java"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-26T06:29:15.909Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-23T06:29:15.909Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "large",
+    "companyName": "Practo Health",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "ad775906-669e-4faf-a23b-f32cbc5594f9",
+    "clientId": "7ae952c6-d834-425b-9306-c3ac91b28f5f",
+    "title": "Review and redraft employment contracts (10 documents)",
+    "description": "Early-stage product team. We value clear communication and honest timelines more than anything else. If you see a problem, tell us — do not just deliver what was asked. Key skills required: Data Entry, Figma, QA.",
+    "budget": "₹15,000–40,000",
+    "projectType": "hourly",
+    "skills": [
+      "Data Entry",
+      "Figma",
+      "QA",
+      "REST API"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-25T06:29:15.909Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-18T06:29:15.909Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "large",
+    "companyName": "Urban Company",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency",
+      "SMB"
+    ]
+  },
+  {
+    "id": "01bbaa17-dbda-4631-a38f-2e0e608faff5",
+    "clientId": "7ae952c6-d834-425b-9306-c3ac91b28f5f",
+    "title": "Build AI chatbot for customer support using GPT-4",
+    "description": "Early-stage product team. We value clear communication and honest timelines more than anything else. If you see a problem, tell us — do not just deliver what was asked. Key skills required: Flutter, Social Media, SEO.",
+    "budget": "₹15,000–40,000",
+    "projectType": "fixed",
+    "skills": [
+      "Flutter",
+      "Social Media",
+      "SEO"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-10T06:29:15.909Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-16T06:29:15.909Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "large",
+    "companyName": "Practo Health",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "f052ff44-af71-4ad8-9a6e-0a07250f3b34",
+    "clientId": "edca17b9-660c-4db7-8477-c8abe91d5b6f",
+    "title": "Inventory management system with barcode scanning",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: Python, Kubernetes, Vue.js.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "fixed",
+    "skills": [
+      "Python",
+      "Kubernetes",
+      "Vue.js"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-23T06:29:15.910Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-19T06:29:15.910Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Byju's Content",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "bf47607f-ffec-402d-87e5-dcce86bfca36",
+    "clientId": "a8bc622c-548c-4181-a022-770cdc7955c5",
+    "title": "Online booking system for salon chain",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: Analytics, Kubernetes, Vue.js.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "hourly",
+    "skills": [
+      "Analytics",
+      "Kubernetes",
+      "Vue.js",
+      "Google Ads"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-26T06:29:15.910Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-06T06:29:15.910Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "Zolo Technologies",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "826b3df2-35ce-40d4-808d-9b5ddb8f3a66",
+    "clientId": "7ae952c6-d834-425b-9306-c3ac91b28f5f",
+    "title": "Multilingual website — English, Hindi, Tamil",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Swift, REST API, Copywriting.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "hourly",
+    "skills": [
+      "Swift",
+      "REST API",
+      "Copywriting"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-12T06:29:15.910Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-13T06:29:15.910Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Infoedge Solutions",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "edceef17-e081-42f6-be8e-10db48521670",
+    "clientId": "9887db58-3396-47ee-ba13-60fcf038ac27",
+    "title": "WCAG 2.1 accessibility audit with remediation plan",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: Data Entry, Docker, AWS.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Data Entry",
+      "Docker",
+      "AWS",
+      "Adobe XD",
+      "PostgreSQL"
+    ],
+    "category": "finance",
+    "createdAt": "2026-05-30T06:29:15.910Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-13T06:29:15.910Z",
+    "experienceLevel": "expert",
+    "projectSize": "medium",
+    "companyName": "Paytm Partners",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "SMB",
+      "Startup"
+    ]
+  },
+  {
+    "id": "4bafb9d8-f0cf-4794-8d02-604b33334955",
+    "clientId": "9887db58-3396-47ee-ba13-60fcf038ac27",
+    "title": "Performance audit and optimisation for React app",
+    "description": "Remote-first company. You can work whenever you want as long as you hit the milestones and respond to messages within 24 hours. Key skills required: React, Email Marketing, Adobe XD.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "hourly",
+    "skills": [
+      "React",
+      "Email Marketing",
+      "Adobe XD"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-29T06:29:15.910Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-26T06:29:15.910Z",
+    "experienceLevel": "expert",
+    "projectSize": "large",
+    "companyName": "ShareChat Media",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup",
+      "Agency"
+    ]
+  },
+  {
+    "id": "79b0840c-7014-4e19-b25f-be350489a9a6",
+    "clientId": "9887db58-3396-47ee-ba13-60fcf038ac27",
+    "title": "Security audit for fintech web application",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: QA, Docker, SEO.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "QA",
+      "Docker",
+      "SEO",
+      "Analytics",
+      "Sketch"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-10T06:29:15.910Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-23T06:29:15.910Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "Buildwise Tech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Agency",
+      "Startup"
+    ]
+  },
+  {
+    "id": "64ea5a26-3eac-4e97-b388-b37c5be1a4a6",
+    "clientId": "5a2fc0c1-2b61-46b7-888c-0fb502ac2db8",
+    "title": "GraphQL API design and implementation",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Node.js, AWS, Social Media.",
+    "budget": "₹15,000–40,000",
+    "projectType": "hourly",
+    "skills": [
+      "Node.js",
+      "AWS",
+      "Social Media",
+      "Illustrator",
+      "Laravel",
+      "Copywriting"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-11T06:29:15.910Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-22T06:29:15.910Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Paytm Partners",
+    "featured": false,
+    "promoted": true,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency",
+      "SMB"
+    ]
+  },
+  {
+    "id": "4cbc6878-05da-4a68-b029-3c09bc0dae27",
+    "clientId": "ec977a31-43fb-49d2-a94b-3aa69d94a542",
+    "title": "Microservices refactor for monolith backend",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: Social Media, React, Sketch.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Social Media",
+      "React",
+      "Sketch",
+      "Python",
+      "Figma",
+      "Shopify"
+    ],
+    "category": "finance",
+    "createdAt": "2026-05-21T06:29:15.910Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-29T06:29:15.910Z",
+    "experienceLevel": "expert",
+    "projectSize": "medium",
+    "companyName": "Paytm Partners",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "a7bb1dcd-4d82-4e9b-b86c-0feb28ed14ef",
+    "clientId": "d47e8c98-ff67-4e98-96f7-9c59aa69e0ec",
+    "title": "Build a React dashboard for internal analytics",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: Analytics, Java, Figma.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Analytics",
+      "Java",
+      "Figma",
+      "QA",
+      "Node.js"
+    ],
+    "category": "admin",
+    "createdAt": "2026-05-22T06:29:15.910Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-09T06:29:15.910Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Vedantu EdTech",
+    "featured": false,
+    "promoted": true,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "f950190f-523e-44bd-b0d7-bc0dce3b0d5d",
+    "clientId": "ec977a31-43fb-49d2-a94b-3aa69d94a542",
+    "title": "Set up Shopify store with custom theme and payment integration",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Project Management, Kubernetes, React.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "fixed",
+    "skills": [
+      "Project Management",
+      "Kubernetes",
+      "React",
+      "PostgreSQL"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-25T06:29:15.911Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-23T06:29:15.911Z",
+    "experienceLevel": "expert",
+    "projectSize": "medium",
+    "companyName": "Buildwise Tech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "d7e70369-1ec1-4760-85e1-5a1c1788cc1b",
+    "clientId": "39740fe5-39bb-4d56-acfb-dd2e3317f0a3",
+    "title": "Design mobile app UI in Figma — fintech product",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: Python, Google Ads, Analytics.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "Python",
+      "Google Ads",
+      "Analytics",
+      "Vue.js"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-18T06:29:15.911Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-14T06:29:15.911Z",
+    "experienceLevel": "entry",
+    "projectSize": "small",
+    "companyName": "ShareChat Media",
+    "featured": false,
+    "promoted": true,
+    "urgent": true,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "SMB",
+      "Agency"
+    ]
+  },
+  {
+    "id": "f26cd166-4718-46e6-8145-1d654d4a495c",
+    "clientId": "39740fe5-39bb-4d56-acfb-dd2e3317f0a3",
+    "title": "Write Python scripts to automate invoice processing",
+    "description": "Agency overflow project. We have a regular pipeline of similar work if this goes well. Looking for someone who can work independently with minimal supervision. Key skills required: Angular, Social Media, Data Entry.",
+    "budget": "₹1,500–3,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "Angular",
+      "Social Media",
+      "Data Entry",
+      "QA",
+      "SEO"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-30T06:29:15.911Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-06T06:29:15.911Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "CRED Fintech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Enterprise",
+      "Startup"
+    ]
+  },
+  {
+    "id": "7e91eab5-cf2b-43d2-adcf-3eea291f2640",
+    "clientId": "d47e8c98-ff67-4e98-96f7-9c59aa69e0ec",
+    "title": "SEO audit and on-page optimization for 50-page website",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: GraphQL, Google Ads, Node.js.",
+    "budget": "₹1,500–3,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "GraphQL",
+      "Google Ads",
+      "Node.js",
+      "Sketch"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-25T06:29:15.911Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-25T06:29:15.911Z",
+    "experienceLevel": "expert",
+    "projectSize": "large",
+    "companyName": "Urban Company",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "SMB",
+      "Startup"
+    ]
+  },
+  {
+    "id": "14ce1c1b-b375-438a-9d25-df8f73afb228",
+    "clientId": "ec977a31-43fb-49d2-a94b-3aa69d94a542",
+    "title": "Customize WordPress theme for coaching business",
+    "description": "Remote-first company. You can work whenever you want as long as you hit the milestones and respond to messages within 24 hours. Key skills required: Social Media, Python, Docker.",
+    "budget": "₹40,000–80,000",
+    "projectType": "hourly",
+    "skills": [
+      "Social Media",
+      "Python",
+      "Docker",
+      "Analytics"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-27T06:29:15.911Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-12T06:29:15.911Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Zolo Technologies",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "627f98fd-141a-490e-a462-7af1ffeaf4c1",
+    "clientId": "910fb65f-04fd-40e9-b632-60eae0e9afb4",
+    "title": "Integrate Razorpay and Stripe into existing Node.js backend",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: Email Marketing, Analytics, Flutter.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "hourly",
+    "skills": [
+      "Email Marketing",
+      "Analytics",
+      "Flutter",
+      "PHP"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-30T06:29:15.912Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-12T06:29:15.912Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Infoedge Solutions",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "SMB"
+    ]
+  },
+  {
+    "id": "cdf4c911-6180-404f-80bb-514a7a0508e5",
+    "clientId": "b96fd777-f3fe-4565-9d3f-a25a0b84a63b",
+    "title": "Create brand identity — logo, typography, colour system",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: PHP, Social Media, Analytics.",
+    "budget": "₹1,500–3,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "PHP",
+      "Social Media",
+      "Analytics",
+      "Testing"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-20T06:29:15.912Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-10T06:29:15.912Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "CRED Fintech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "SMB"
+    ]
+  },
+  {
+    "id": "07f7e001-e647-45ba-9589-a6de454c5156",
+    "clientId": "7ae952c6-d834-425b-9306-c3ac91b28f5f",
+    "title": "Write 10 SEO blog posts for SaaS company",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: React, Flutter, Figma.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "React",
+      "Flutter",
+      "Figma",
+      "Analytics",
+      "Technical Writing",
+      "Data Entry"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-29T06:29:15.912Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-24T06:29:15.912Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Razorpay Partners",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "1c7fdee0-d5ad-467f-a695-d1ad4b7083e4",
+    "clientId": "09377b57-6e66-4f38-a4d4-911e3077a8a0",
+    "title": "Build React Native app for delivery tracking",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: Project Management, Java, Illustrator.",
+    "budget": "₹1,50,000–3,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "Project Management",
+      "Java",
+      "Illustrator",
+      "Flutter"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-20T06:29:15.912Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-19T06:29:15.912Z",
+    "experienceLevel": "expert",
+    "projectSize": "large",
+    "companyName": "CRED Fintech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency",
+      "SMB"
+    ]
+  },
+  {
+    "id": "fec31aff-fccf-47af-89a6-c2080e5c36d5",
+    "clientId": "09377b57-6e66-4f38-a4d4-911e3077a8a0",
+    "title": "Node.js REST API for e-commerce order management",
+    "description": "Early-stage product team. We value clear communication and honest timelines more than anything else. If you see a problem, tell us — do not just deliver what was asked. Key skills required: PHP, Python, Google Ads.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "PHP",
+      "Python",
+      "Google Ads",
+      "Sketch"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-14T06:29:15.912Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-22T06:29:15.912Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "Lenskart Digital",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "bb70fc6a-e87c-4c94-aa45-c28d06acaeda",
+    "clientId": "f9ae0436-ceb7-4807-9798-58e015524156",
+    "title": "Convert Figma designs to responsive React components",
+    "description": "Early-stage product team. We value clear communication and honest timelines more than anything else. If you see a problem, tell us — do not just deliver what was asked. Key skills required: Content Writing, TypeScript, QA.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "Content Writing",
+      "TypeScript",
+      "QA",
+      "Testing"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-23T06:29:15.912Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-13T06:29:15.912Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "Lenskart Digital",
+    "featured": false,
+    "promoted": true,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "7c09261f-3946-4089-b360-daf724a16630",
+    "clientId": "9fd1f653-4ff7-4e67-93dd-d18ac18fdb38",
+    "title": "Migrate MySQL database to PostgreSQL without downtime",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: Vue.js, GraphQL, SEO.",
+    "budget": "₹1,50,000–3,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Vue.js",
+      "GraphQL",
+      "SEO",
+      "Node.js"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-27T06:29:15.912Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-07T06:29:15.912Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "large",
+    "companyName": "Swiggy Ops Team",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "e4b9d10a-323f-463f-9b1f-8d748289fa6e",
+    "clientId": "39740fe5-39bb-4d56-acfb-dd2e3317f0a3",
+    "title": "Run Instagram and LinkedIn campaigns for product launch",
+    "description": "Early-stage product team. We value clear communication and honest timelines more than anything else. If you see a problem, tell us — do not just deliver what was asked. Key skills required: TypeScript, Vue.js, MongoDB.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "TypeScript",
+      "Vue.js",
+      "MongoDB",
+      "WordPress",
+      "REST API"
+    ],
+    "category": "writing",
+    "createdAt": "2026-05-17T06:29:15.912Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-10T06:29:15.912Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "Infoedge Solutions",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "3c25092d-d115-4659-a386-2b66b86f9e8b",
+    "clientId": "5a2fc0c1-2b61-46b7-888c-0fb502ac2db8",
+    "title": "Write technical documentation for developer API",
+    "description": "Growing D2C brand looking for a specialist who has done this before. We do not have time for a learning curve. Share relevant work and we will move fast. Key skills required: Google Ads, React, Flutter.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Google Ads",
+      "React",
+      "Flutter"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-20T06:29:15.912Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-19T06:29:15.912Z",
+    "experienceLevel": "entry",
+    "projectSize": "small",
+    "companyName": "Zolo Technologies",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "SMB",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "b6f27279-144d-4bf0-91c5-93641c56a8eb",
+    "clientId": "d47e8c98-ff67-4e98-96f7-9c59aa69e0ec",
+    "title": "Set up AWS infrastructure with auto-scaling and CloudFront",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: React, Photoshop, Figma.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "React",
+      "Photoshop",
+      "Figma",
+      "Shopify",
+      "Social Media"
+    ],
+    "category": "writing",
+    "createdAt": "2026-05-24T06:29:15.912Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-28T06:29:15.912Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Swiggy Ops Team",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "aca7a0e4-10e1-463e-8d0d-62da0d3a382c",
+    "clientId": "5a2fc0c1-2b61-46b7-888c-0fb502ac2db8",
+    "title": "Containerise monolith application using Docker and Kubernetes",
+    "description": "Remote-first company. You can work whenever you want as long as you hit the milestones and respond to messages within 24 hours. Key skills required: Content Writing, Photoshop, Laravel.",
+    "budget": "₹1,50,000–3,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Content Writing",
+      "Photoshop",
+      "Laravel"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-26T06:29:15.912Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-07-04T06:29:15.912Z",
+    "experienceLevel": "expert",
+    "projectSize": "large",
+    "companyName": "Meesho Suppliers",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "SMB",
+      "Startup"
+    ]
+  },
+  {
+    "id": "f46e4a80-dcaa-4e49-90dc-03d0c02148a7",
+    "clientId": "a8bc622c-548c-4181-a022-770cdc7955c5",
+    "title": "Build landing page with animations for upcoming app launch",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: Figma, Analytics, REST API.",
+    "budget": "₹15,000–40,000",
+    "projectType": "hourly",
+    "skills": [
+      "Figma",
+      "Analytics",
+      "REST API"
+    ],
+    "category": "admin",
+    "createdAt": "2026-05-14T06:29:15.912Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-06T06:29:15.912Z",
+    "experienceLevel": "entry",
+    "projectSize": "large",
+    "companyName": "Practo Health",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "SMB"
+    ]
+  },
+  {
+    "id": "62ae44d2-9026-4c31-a911-a157bd88140a",
+    "clientId": "910fb65f-04fd-40e9-b632-60eae0e9afb4",
+    "title": "Data entry and cleanup for 10,000-row product catalogue",
+    "description": "Growing D2C brand looking for a specialist who has done this before. We do not have time for a learning curve. Share relevant work and we will move fast. Key skills required: Project Management, AWS, Copywriting.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Project Management",
+      "AWS",
+      "Copywriting",
+      "React",
+      "Email Marketing",
+      "REST API"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-25T06:29:15.912Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-16T06:29:15.912Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "Urban Company",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "632fed36-88ef-4d89-b801-00a74186a4e1",
+    "clientId": "45e38a62-7ad0-43d9-8d90-1f947134f36a",
+    "title": "Write email sequences for onboarding and re-engagement",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: Data Entry, Content Writing, Technical Writing.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "Data Entry",
+      "Content Writing",
+      "Technical Writing",
+      "Vue.js",
+      "Google Ads",
+      "Email Marketing"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-14T06:29:15.913Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-12T06:29:15.913Z",
+    "experienceLevel": "entry",
+    "projectSize": "large",
+    "companyName": "Cars24 Analytics",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "312d4275-1ca4-4d24-8a2a-d51ff65839d0",
+    "clientId": "0452d0e7-bb4b-4e70-80d9-0c9e77e07444",
+    "title": "Full-stack web application for appointment booking",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: PostgreSQL, Project Management, Sketch.",
+    "budget": "₹1,50,000–3,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "PostgreSQL",
+      "Project Management",
+      "Sketch",
+      "Illustrator",
+      "Copywriting"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-24T06:29:15.913Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-15T06:29:15.913Z",
+    "experienceLevel": "entry",
+    "projectSize": "large",
+    "companyName": "CRED Fintech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "fbbccb60-5c18-4b80-828d-747b0ec80457",
+    "clientId": "45e38a62-7ad0-43d9-8d90-1f947134f36a",
+    "title": "Redesign UI/UX for B2B SaaS dashboard",
+    "description": "We are a bootstrapped startup and need reliable help to hit our next milestone. You will work directly with our CTO. Clear briefs, fast feedback, on-time payment — that is our commitment to you. Key skills required: Angular, PostgreSQL, Sketch.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "hourly",
+    "skills": [
+      "Angular",
+      "PostgreSQL",
+      "Sketch"
+    ],
+    "category": "writing",
+    "createdAt": "2026-05-24T06:29:15.913Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-09T06:29:15.913Z",
+    "experienceLevel": "entry",
+    "projectSize": "large",
+    "companyName": "Swiggy Ops Team",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "9cf6589c-bc9f-4522-a514-5a5e356388af",
+    "clientId": "c585384c-1be7-4d5a-8310-508ba90e1db8",
+    "title": "Train Python ML model for churn prediction",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: Content Writing, Illustrator, Technical Writing.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "hourly",
+    "skills": [
+      "Content Writing",
+      "Illustrator",
+      "Technical Writing",
+      "Email Marketing"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-18T06:29:15.913Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-17T06:29:15.913Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "Kotak Ventures",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "3c804211-68de-46c3-9755-0775af785200",
+    "clientId": "c585384c-1be7-4d5a-8310-508ba90e1db8",
+    "title": "Set up Mailchimp automation with segmentation",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: Shopify, Sketch, Laravel.",
+    "budget": "₹40,000–80,000",
+    "projectType": "hourly",
+    "skills": [
+      "Shopify",
+      "Sketch",
+      "Laravel",
+      "SEO",
+      "Node.js",
+      "PHP"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-26T06:29:15.913Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-23T06:29:15.913Z",
+    "experienceLevel": "entry",
+    "projectSize": "large",
+    "companyName": "Cars24 Analytics",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup",
+      "Agency"
+    ]
+  },
+  {
+    "id": "18b30251-0288-45ff-80b7-efa23534e859",
+    "clientId": "fca70563-e268-48f3-a17b-a3c2e4bcd9b1",
+    "title": "Build and configure Shopify store from scratch",
+    "description": "We are a bootstrapped startup and need reliable help to hit our next milestone. You will work directly with our CTO. Clear briefs, fast feedback, on-time payment — that is our commitment to you. Key skills required: Laravel, Google Ads, Sketch.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Laravel",
+      "Google Ads",
+      "Sketch",
+      "Java",
+      "Technical Writing",
+      "PostgreSQL"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-11T06:29:15.913Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-10T06:29:15.913Z",
+    "experienceLevel": "expert",
+    "projectSize": "medium",
+    "companyName": "Urban Company",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "SMB",
+      "Agency"
+    ]
+  },
+  {
+    "id": "be1dd250-89e7-4183-8ec0-f553709b16f0",
+    "clientId": "fca70563-e268-48f3-a17b-a3c2e4bcd9b1",
+    "title": "Write API documentation using OpenAPI / Swagger",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: PHP, GraphQL, QA.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "PHP",
+      "GraphQL",
+      "QA",
+      "React",
+      "Node.js",
+      "CI/CD"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-14T06:29:15.914Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-22T06:29:15.914Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "Lenskart Digital",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "SMB"
+    ]
+  },
+  {
+    "id": "cc66c125-c8bf-4b43-8258-0d17b6b420d4",
+    "clientId": "9fd1f653-4ff7-4e67-93dd-d18ac18fdb38",
+    "title": "Admin dashboard with charts and export functionality",
+    "description": "Remote-first company. You can work whenever you want as long as you hit the milestones and respond to messages within 24 hours. Key skills required: Vue.js, React, Node.js.",
+    "budget": "₹1,50,000–3,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Vue.js",
+      "React",
+      "Node.js",
+      "Docker"
+    ],
+    "category": "finance",
+    "createdAt": "2026-05-20T06:29:15.914Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-10T06:29:15.914Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "CRED Fintech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency",
+      "SMB"
+    ]
+  },
+  {
+    "id": "b6060e96-3fe1-4985-b728-72d914487c7a",
+    "clientId": "94638305-32f0-4e69-8b33-16b37be74c97",
+    "title": "Build backend for mobile app — Firebase + Node.js",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: Kubernetes, React, Node.js.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "Kubernetes",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "MongoDB",
+      "AWS"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-17T06:29:15.914Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-07-03T06:29:15.914Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "Cars24 Analytics",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "e068ef61-98c7-4bfc-b5fb-d5793ee3da74",
+    "clientId": "5a2fc0c1-2b61-46b7-888c-0fb502ac2db8",
+    "title": "Create brand guidelines document for new startup",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: Illustrator, Social Media, SEO.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Illustrator",
+      "Social Media",
+      "SEO",
+      "Node.js",
+      "Google Ads"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-14T06:29:15.914Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-07-04T06:29:15.914Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Byju's Content",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Agency",
+      "Startup"
+    ]
+  },
+  {
+    "id": "cdab541a-dee9-4776-aff0-33f0677ac992",
+    "clientId": "0452d0e7-bb4b-4e70-80d9-0c9e77e07444",
+    "title": "Monthly blog content — 8 articles, SEO-optimised",
+    "description": "We are a bootstrapped startup and need reliable help to hit our next milestone. You will work directly with our CTO. Clear briefs, fast feedback, on-time payment — that is our commitment to you. Key skills required: Angular, Adobe XD, Kubernetes.",
+    "budget": "₹15,000–40,000",
+    "projectType": "hourly",
+    "skills": [
+      "Angular",
+      "Adobe XD",
+      "Kubernetes",
+      "Illustrator",
+      "Laravel"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-20T06:29:15.914Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-29T06:29:15.914Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Urban Company",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Enterprise",
+      "Startup"
+    ]
+  },
+  {
+    "id": "e9a38bfa-eb4f-430e-a0ac-7bddf564ec48",
+    "clientId": "2dffcb46-41ce-42b2-ba51-c343798b2b1e",
+    "title": "Integrate payment gateway into Laravel application",
+    "description": "Remote-first company. You can work whenever you want as long as you hit the milestones and respond to messages within 24 hours. Key skills required: CI/CD, Laravel, Swift.",
+    "budget": "₹40,000–80,000",
+    "projectType": "fixed",
+    "skills": [
+      "CI/CD",
+      "Laravel",
+      "Swift"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-11T06:29:15.914Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-23T06:29:15.914Z",
+    "experienceLevel": "entry",
+    "projectSize": "small",
+    "companyName": "OYO Operations",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "526edae4-4ab4-46c0-81e6-a506b79f2fcd",
+    "clientId": "09377b57-6e66-4f38-a4d4-911e3077a8a0",
+    "title": "Build reusable React component library with Storybook",
+    "description": "Non-technical founder here. I need someone who can translate business requirements into good technical decisions, not just code what I ask for. Key skills required: QA, Docker, Angular.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "fixed",
+    "skills": [
+      "QA",
+      "Docker",
+      "Angular",
+      "Social Media"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-15T06:29:15.914Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-07-02T06:29:15.914Z",
+    "experienceLevel": "entry",
+    "projectSize": "large",
+    "companyName": "Infoedge Solutions",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "089ca65e-e0e8-4c5a-a819-cb8363c56d96",
+    "clientId": "910fb65f-04fd-40e9-b632-60eae0e9afb4",
+    "title": "Migrate Angular 8 app to React 18",
+    "description": "Early-stage product team. We value clear communication and honest timelines more than anything else. If you see a problem, tell us — do not just deliver what was asked. Key skills required: Content Writing, PHP, Kubernetes.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "Content Writing",
+      "PHP",
+      "Kubernetes",
+      "Copywriting",
+      "PostgreSQL",
+      "Google Ads"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-22T06:29:15.914Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-07-02T06:29:15.914Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Vedantu EdTech",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Agency",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "d2288d4d-1d06-4287-96b2-b6f2809f87da",
+    "clientId": "0452d0e7-bb4b-4e70-80d9-0c9e77e07444",
+    "title": "Laravel-based multi-vendor e-commerce platform",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Laravel, Technical Writing, Illustrator.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Laravel",
+      "Technical Writing",
+      "Illustrator",
+      "Content Writing",
+      "GraphQL",
+      "Adobe XD"
+    ],
+    "category": "admin",
+    "createdAt": "2026-05-29T06:29:15.914Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-06T06:29:15.914Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Cars24 Analytics",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Agency"
+    ]
+  },
+  {
+    "id": "c55257b4-5d89-4800-8dca-315b69a00263",
+    "clientId": "45e38a62-7ad0-43d9-8d90-1f947134f36a",
+    "title": "Interactive Figma prototype for iOS banking app",
+    "description": "Agency overflow project. We have a regular pipeline of similar work if this goes well. Looking for someone who can work independently with minimal supervision. Key skills required: Data Entry, REST API, Email Marketing.",
+    "budget": "₹40,000–80,000",
+    "projectType": "hourly",
+    "skills": [
+      "Data Entry",
+      "REST API",
+      "Email Marketing"
+    ],
+    "category": "writing",
+    "createdAt": "2026-05-10T06:29:15.914Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-16T06:29:15.914Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "Vedantu EdTech",
+    "featured": false,
+    "promoted": true,
+    "urgent": true,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "SMB"
+    ]
+  },
+  {
+    "id": "e1fe078c-5a20-48c8-9300-38fb3a5e6478",
+    "clientId": "94638305-32f0-4e69-8b33-16b37be74c97",
+    "title": "Write SEO content for 15 service pages",
+    "description": "We are a bootstrapped startup and need reliable help to hit our next milestone. You will work directly with our CTO. Clear briefs, fast feedback, on-time payment — that is our commitment to you. Key skills required: Angular, Figma, GraphQL.",
+    "budget": "₹15,000–40,000",
+    "projectType": "fixed",
+    "skills": [
+      "Angular",
+      "Figma",
+      "GraphQL"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-10T06:29:15.914Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-12T06:29:15.914Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "ShareChat Media",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "ccb69554-7cf6-4a96-a660-b38585a3c2b5",
+    "clientId": "39740fe5-39bb-4d56-acfb-dd2e3317f0a3",
+    "title": "Scrape and structure data from public job boards",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: REST API, MongoDB, Sketch.",
+    "budget": "₹1,50,000–3,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "REST API",
+      "MongoDB",
+      "Sketch"
+    ],
+    "category": "legal",
+    "createdAt": "2026-05-24T06:29:15.914Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-19T06:29:15.914Z",
+    "experienceLevel": "expert",
+    "projectSize": "medium",
+    "companyName": "ShareChat Media",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Enterprise",
+      "Agency"
+    ]
+  },
+  {
+    "id": "a28047bb-a18f-4328-9db9-6507c052e830",
+    "clientId": "fca70563-e268-48f3-a17b-a3c2e4bcd9b1",
+    "title": "Integrate Salesforce CRM with internal tools",
+    "description": "Agency overflow project. We have a regular pipeline of similar work if this goes well. Looking for someone who can work independently with minimal supervision. Key skills required: Shopify, React, QA.",
+    "budget": "₹15,000–40,000",
+    "projectType": "fixed",
+    "skills": [
+      "Shopify",
+      "React",
+      "QA",
+      "REST API",
+      "Google Ads"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-24T06:29:15.914Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-14T06:29:15.914Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "Swiggy Ops Team",
+    "featured": true,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "16d2f3aa-8cbc-423e-8a9f-e2096ebac857",
+    "clientId": "39740fe5-39bb-4d56-acfb-dd2e3317f0a3",
+    "title": "Build Chrome extension for productivity tracking",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: PHP, AWS, Data Entry.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "PHP",
+      "AWS",
+      "Data Entry"
+    ],
+    "category": "finance",
+    "createdAt": "2026-05-13T06:29:15.914Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-07-04T06:29:15.914Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Practo Health",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Enterprise",
+      "Agency"
+    ]
+  },
+  {
+    "id": "df5d846e-948d-460b-89f5-5c5b97dc3f1d",
+    "clientId": "f9ae0436-ceb7-4807-9798-58e015524156",
+    "title": "Edit and produce 5 marketing videos — reels format",
+    "description": "Early-stage product team. We value clear communication and honest timelines more than anything else. If you see a problem, tell us — do not just deliver what was asked. Key skills required: React, Analytics, Email Marketing.",
+    "budget": "₹80,000–1,50,000",
+    "projectType": "hourly",
+    "skills": [
+      "React",
+      "Analytics",
+      "Email Marketing"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-26T06:29:15.914Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-07-03T06:29:15.914Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "large",
+    "companyName": "Byju's Content",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Agency",
+      "Startup"
+    ]
+  },
+  {
+    "id": "88098bf5-0a26-4472-9af0-74c1952c2388",
+    "clientId": "ec977a31-43fb-49d2-a94b-3aa69d94a542",
+    "title": "Create financial model and investor deck for seed round",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Python, GraphQL, TypeScript.",
+    "budget": "₹1,50,000–3,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Python",
+      "GraphQL",
+      "TypeScript",
+      "REST API",
+      "WordPress"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-16T06:29:15.914Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-30T06:29:15.914Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "Lenskart Digital",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "fc72deb8-11ec-43a0-b835-5ae5028478da",
+    "clientId": "c0228e2d-5ac0-4b9d-a734-b8d5244d0065",
+    "title": "Review and redraft employment contracts (10 documents)",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: Swift, CI/CD, React.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "fixed",
+    "skills": [
+      "Swift",
+      "CI/CD",
+      "React",
+      "Content Writing"
+    ],
+    "category": "development",
+    "createdAt": "2026-05-10T06:29:15.914Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-15T06:29:15.914Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "Swiggy Ops Team",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "e3c2503f-b865-41e3-ad05-0f2e2903ef24",
+    "clientId": "45e38a62-7ad0-43d9-8d90-1f947134f36a",
+    "title": "Build AI chatbot for customer support using GPT-4",
+    "description": "Internal tool for our ops team. Not customer-facing, but needs to be solid. We have detailed specs ready to share after NDA is signed. Key skills required: Kubernetes, Project Management, PostgreSQL.",
+    "budget": "₹15,000–40,000",
+    "projectType": "fixed",
+    "skills": [
+      "Kubernetes",
+      "Project Management",
+      "PostgreSQL",
+      "GraphQL"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-11T06:29:15.915Z",
+    "status": "open",
+    "timeline": "1–2 weeks",
+    "deadline": "2026-06-26T06:29:15.915Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "medium",
+    "companyName": "OYO Operations",
+    "featured": false,
+    "promoted": false,
+    "urgent": true,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "06a8d183-bfe6-4e6a-85c5-f411b01fd71c",
+    "clientId": "45e38a62-7ad0-43d9-8d90-1f947134f36a",
+    "title": "Inventory management system with barcode scanning",
+    "description": "We have been burned before by freelancers who disappeared mid-project. We run proper milestones and escrow — we just need someone who will actually deliver. Key skills required: Copywriting, Adobe XD, TypeScript.",
+    "budget": "₹6,000–12,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "Copywriting",
+      "Adobe XD",
+      "TypeScript"
+    ],
+    "category": "marketing",
+    "createdAt": "2026-05-22T06:29:15.915Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-07-03T06:29:15.915Z",
+    "experienceLevel": "expert",
+    "projectSize": "small",
+    "companyName": "Nykaa Commerce",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Agency"
+    ]
+  },
+  {
+    "id": "398f4ae9-929a-45e8-b7f8-4d587f9219c6",
+    "clientId": "c585384c-1be7-4d5a-8310-508ba90e1db8",
+    "title": "Online booking system for salon chain",
+    "description": "Series A startup. Moving quickly. We will need someone who can adapt as requirements evolve — which they will. Key skills required: Node.js, Photoshop, Kubernetes.",
+    "budget": "₹3,00,000–6,00,000",
+    "projectType": "hourly",
+    "skills": [
+      "Node.js",
+      "Photoshop",
+      "Kubernetes",
+      "Laravel",
+      "Shopify"
+    ],
+    "category": "writing",
+    "createdAt": "2026-05-14T06:29:15.915Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-07T06:29:15.915Z",
+    "experienceLevel": "entry",
+    "projectSize": "small",
+    "companyName": "Nykaa Commerce",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "SMB"
+    ]
+  },
+  {
+    "id": "8e966401-b96c-48ab-b48b-284f85815dbc",
+    "clientId": "a8bc622c-548c-4181-a022-770cdc7955c5",
+    "title": "Multilingual website — English, Hindi, Tamil",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: Analytics, WordPress, Laravel.",
+    "budget": "₹1,500–3,000/hr",
+    "projectType": "fixed",
+    "skills": [
+      "Analytics",
+      "WordPress",
+      "Laravel",
+      "Vue.js",
+      "Illustrator"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-28T06:29:15.915Z",
+    "status": "open",
+    "timeline": "2–4 weeks",
+    "deadline": "2026-06-08T06:29:15.915Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "PhonePe Agency",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24h",
+    "projectTags": [
+      "Startup"
+    ]
+  },
+  {
+    "id": "cb638e82-3333-4035-88d3-fc47677349ff",
+    "clientId": "7ae952c6-d834-425b-9306-c3ac91b28f5f",
+    "title": "WCAG 2.1 accessibility audit with remediation plan",
+    "description": "Growing D2C brand looking for a specialist who has done this before. We do not have time for a learning curve. Share relevant work and we will move fast. Key skills required: Data Entry, Sketch, Adobe XD.",
+    "budget": "₹15,000–40,000",
+    "projectType": "fixed",
+    "skills": [
+      "Data Entry",
+      "Sketch",
+      "Adobe XD",
+      "CI/CD"
+    ],
+    "category": "writing",
+    "createdAt": "2026-05-29T06:29:15.915Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-13T06:29:15.915Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "Urban Company",
+    "featured": true,
+    "promoted": true,
+    "urgent": false,
+    "responseTime": "within_1h",
+    "projectTags": [
+      "Agency",
+      "SMB"
+    ]
+  },
+  {
+    "id": "6a96b374-56f3-4e9f-a20a-d3ea65a0f26f",
+    "clientId": "5a2fc0c1-2b61-46b7-888c-0fb502ac2db8",
+    "title": "Performance audit and optimisation for React app",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: WordPress, Figma, SEO.",
+    "budget": "₹3,000–6,000/hr",
+    "projectType": "hourly",
+    "skills": [
+      "WordPress",
+      "Figma",
+      "SEO"
+    ],
+    "category": "ai",
+    "createdAt": "2026-05-17T06:29:15.915Z",
+    "status": "open",
+    "timeline": "2–3 months",
+    "deadline": "2026-06-24T06:29:15.915Z",
+    "experienceLevel": "intermediate",
+    "projectSize": "small",
+    "companyName": "OYO Operations",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": "cf99c932-cce0-47c6-b856-bd7ac50e0cdc",
+    "clientId": "d47e8c98-ff67-4e98-96f7-9c59aa69e0ec",
+    "title": "Security audit for fintech web application",
+    "description": "Second time posting this job. First freelancer we hired had a great profile but poor execution. Looking for someone with verifiable references. Key skills required: Laravel, Adobe XD, Content Writing.",
+    "budget": "₹15,000–40,000",
+    "projectType": "fixed",
+    "skills": [
+      "Laravel",
+      "Adobe XD",
+      "Content Writing",
+      "TypeScript",
+      "GraphQL",
+      "Testing"
+    ],
+    "category": "design",
+    "createdAt": "2026-05-25T06:29:15.915Z",
+    "status": "open",
+    "timeline": "1–2 months",
+    "deadline": "2026-06-22T06:29:15.915Z",
+    "experienceLevel": "entry",
+    "projectSize": "medium",
+    "companyName": "Zolo Technologies",
+    "featured": false,
+    "promoted": false,
+    "urgent": false,
+    "responseTime": "within_24_48h",
+    "projectTags": [
+      "Startup"
+    ]
+  }
+]

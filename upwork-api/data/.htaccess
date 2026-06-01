@@ -1,0 +1,4 @@
+# Deny direct access to JSON files (API reads them server-side)
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
